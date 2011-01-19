@@ -1,8 +1,6 @@
 class Relatorio
-  DIR = "reports"
 
   def initialize(report, data, options = {})
-    report   = "#{DIR}/#{report}"
     @model   = load_or_compile_report(report)
     @options = options
 
