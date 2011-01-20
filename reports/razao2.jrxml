@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="razao2" language="groovy" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20">
+	<property name="ireport.zoom" value="2.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<queryString language="xPath">
+		<![CDATA[/razao/item]]>
+	</queryString>
+	<field name="codigo" class="java.lang.String">
+		<fieldDescription><![CDATA[codigo]]></fieldDescription>
+	</field>
+	<field name="nome_empresa" class="java.lang.String">
+		<fieldDescription><![CDATA[/razao/nome_empresa]]></fieldDescription>
+	</field>
+	<field name="data_final" class="java.lang.String">
+		<fieldDescription><![CDATA[/razao/data_final]]></fieldDescription>
+	</field>
+	<field name="data_inicial" class="java.lang.String">
+		<fieldDescription><![CDATA[/razao/data_inicial]]></fieldDescription>
+	</field>
+	<field name="nome" class="java.lang.String">
+		<fieldDescription><![CDATA[nome]]></fieldDescription>
+	</field>
+	<field name="saldo_anterior" class="java.lang.Double">
+		<fieldDescription><![CDATA[saldo_anterior]]></fieldDescription>
+	</field>
+	<field name="data" class="java.lang.String">
+		<fieldDescription><![CDATA[data]]></fieldDescription>
+	</field>
+	<field name="historico" class="java.lang.String">
+		<fieldDescription><![CDATA[historico]]></fieldDescription>
+	</field>
+	<field name="contrapartida" class="java.lang.String">
+		<fieldDescription><![CDATA[contrapartida]]></fieldDescription>
+	</field>
+	<field name="identificador" class="java.lang.String">
+		<fieldDescription><![CDATA[identificador]]></fieldDescription>
+	</field>
+	<field name="saldo" class="java.lang.Double">
+		<fieldDescription><![CDATA[saldo]]></fieldDescription>
+	</field>
+	<field name="nome_software" class="java.lang.String">
+		<fieldDescription><![CDATA[/razao/nome_software]]></fieldDescription>
+	</field>
+	<field name="usuario" class="java.lang.String">
+		<fieldDescription><![CDATA[/razao/usuario]]></fieldDescription>
+	</field>
+	<field name="debito" class="java.lang.Double">
+		<fieldDescription><![CDATA[debito]]></fieldDescription>
+	</field>
+	<field name="credito" class="java.lang.Double">
+		<fieldDescription><![CDATA[credito]]></fieldDescription>
+	</field>
+	<variable name="somaDebito" class="java.lang.Double" resetType="Group" resetGroup="grpConta" calculation="Sum">
+		<variableExpression><![CDATA[$F{debito}]]></variableExpression>
+	</variable>
+	<variable name="ultimoSaldo" class="java.lang.Double" resetType="Group" resetGroup="grpConta">
+		<variableExpression><![CDATA[$F{saldo}]]></variableExpression>
+	</variable>
+	<variable name="somaCredito" class="java.lang.Double" resetType="Group" resetGroup="grpConta" calculation="Sum">
+		<variableExpression><![CDATA[$F{credito}]]></variableExpression>
+	</variable>
+	<variable name="linha" class="java.lang.Number" resetType="Group" resetGroup="grpConta" calculation="Count">
+		<variableExpression><![CDATA[$V{REPORT_COUNT}]]></variableExpression>
+	</variable>
+	<group name="grpConta">
+		<groupExpression><![CDATA[$F{codigo}]]></groupExpression>
+		<groupHeader>
+			<band height="9">
+				<textField>
+					<reportElement x="0" y="0" width="355" height="9"/>
+					<textElement>
+						<font fontName="Courier New" size="7" isBold="true"/>
+					</textElement>
+					<textFieldExpression class="java.lang.String"><![CDATA[$F{codigo} + " " + $F{nome}]]></textFieldExpression>
+				</textField>
+				<textField pattern="#,##0.00D;#,##0.00C">
+					<reportElement x="490" y="0" width="65" height="9"/>
+					<textElement textAlignment="Right">
+						<font fontName="Courier New" size="7" isBold="true"/>
+					</textElement>
+					<textFieldExpression class="java.lang.Double"><![CDATA[$F{saldo_anterior}]]></textFieldExpression>
+				</textField>
+				<staticText>
+					<reportElement x="418" y="0" width="70" height="9"/>
+					<textElement textAlignment="Right">
+						<font fontName="Courier New" size="7"/>
+					</textElement>
+					<text><![CDATA[saldo anterior:]]></text>
+				</staticText>
+			</band>
+		</groupHeader>
+		<groupFooter>
+			<band height="11">
+				<staticText>
+					<reportElement x="233" y="0" width="65" height="9"/>
+					<textElement>
+						<font fontName="Courier New" size="7"/>
+					</textElement>
+					<text><![CDATA[saldo anterior:]]></text>
+				</staticText>
+				<textField pattern="#,##0.00D;#,##0.00C">
+					<reportElement x="299" y="0" width="65" height="9"/>
+					<textElement textAlignment="Right">
+						<font fontName="Courier New" size="7" isBold="true"/>
+					</textElement>
+					<textFieldExpression class="java.lang.Double"><![CDATA[$F{saldo_anterior}]]></textFieldExpression>
+				</textField>
+				<textField pattern="#,##0.00" isBlankWhenNull="true">
+					<reportElement x="366" y="0" width="60" height="9"/>
+					<textElement textAlignment="Right">
+						<font fontName="Courier New" size="7" isBold="true"/>
+					</textElement>
+					<textFieldExpression class="java.lang.Double"><![CDATA[$V{somaDebito}]]></textFieldExpression>
+				</textField>
+				<textField pattern="#,##0.00" isBlankWhenNull="true">
+					<reportElement x="428" y="0" width="60" height="9"/>
+					<textElement textAlignment="Right">
+						<font fontName="Courier New" size="7" isBold="true"/>
+					</textElement>
+					<textFieldExpression class="java.lang.Double"><![CDATA[$V{somaCredito}]]></textFieldExpression>
+				</textField>
+				<textField pattern="#,##0.00D;#,##0.00C">
+					<reportElement x="490" y="0" width="65" height="9"/>
+					<textElement textAlignment="Right">
+						<font fontName="Courier New" size="7" isBold="true"/>
+					</textElement>
+					<textFieldExpression class="java.lang.Double"><![CDATA[$V{ultimoSaldo}]]></textFieldExpression>
+				</textField>
+			</band>
+		</groupFooter>
+	</group>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band splitType="Stretch"/>
+	</title>
+	<pageHeader>
+		<band height="27" splitType="Stretch">
+			<textField>
+				<reportElement x="0" y="0" width="492" height="11"/>
+				<textElement>
+					<font fontName="Courier New" size="9"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{nome_empresa}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="0" y="14" width="555" height="9"/>
+				<textElement textAlignment="Center">
+					<font fontName="Courier New" size="7"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA["período: " + $F{data_inicial} + " a " + $F{data_final}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="501" y="0" width="54" height="11"/>
+				<textElement textAlignment="Right">
+					<font fontName="Courier New" size="9" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Razão]]></text>
+			</staticText>
+		</band>
+	</pageHeader>
+	<columnHeader>
+		<band height="9" splitType="Stretch">
+			<staticText>
+				<reportElement x="0" y="0" width="43" height="9"/>
+				<box>
+					<bottomPen lineWidth="0.25"/>
+				</box>
+				<textElement>
+					<font fontName="Courier New" size="7" isUnderline="false"/>
+				</textElement>
+				<text><![CDATA[data]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="45" y="0" width="207" height="9"/>
+				<box>
+					<bottomPen lineWidth="0.25"/>
+				</box>
+				<textElement>
+					<font fontName="Courier New" size="7" isUnderline="false"/>
+				</textElement>
+				<text><![CDATA[histórico]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="254" y="0" width="78" height="9"/>
+				<box>
+					<bottomPen lineWidth="0.25"/>
+				</box>
+				<textElement>
+					<font fontName="Courier New" size="7" isUnderline="false"/>
+				</textElement>
+				<text><![CDATA[contrapartida]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="334" y="0" width="30" height="9"/>
+				<box>
+					<bottomPen lineWidth="0.25"/>
+				</box>
+				<textElement textAlignment="Right">
+					<font fontName="Courier New" size="7" isUnderline="false"/>
+				</textElement>
+				<text><![CDATA[identif]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="366" y="0" width="60" height="9"/>
+				<box>
+					<bottomPen lineWidth="0.25"/>
+				</box>
+				<textElement textAlignment="Right">
+					<font fontName="Courier New" size="7" isUnderline="false"/>
+				</textElement>
+				<text><![CDATA[débito]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="490" y="0" width="65" height="9"/>
+				<box>
+					<bottomPen lineWidth="0.25"/>
+				</box>
+				<textElement textAlignment="Right">
+					<font fontName="Courier New" size="7" isUnderline="false"/>
+				</textElement>
+				<text><![CDATA[saldo]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="428" y="0" width="60" height="9"/>
+				<box>
+					<bottomPen lineWidth="0.25"/>
+				</box>
+				<textElement textAlignment="Right">
+					<font fontName="Courier New" size="7" isUnderline="false"/>
+				</textElement>
+				<text><![CDATA[crédito]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="9" splitType="Stretch">
+			<rectangle>
+				<reportElement x="0" y="1" width="555" height="8" backcolor="#E6E6E6">
+					<printWhenExpression><![CDATA[new Boolean(($V{linha}.intValue() % 2) != 1)]]></printWhenExpression>
+				</reportElement>
+				<graphicElement>
+					<pen lineWidth="0.0" lineStyle="Double" lineColor="#FFFFFF"/>
+				</graphicElement>
+			</rectangle>
+			<textField isStretchWithOverflow="true">
+				<reportElement x="45" y="0" width="207" height="9" isPrintWhenDetailOverflows="true"/>
+				<textElement verticalAlignment="Bottom">
+					<font fontName="Courier New" size="7"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{historico}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="254" y="0" width="78" height="9"/>
+				<textElement verticalAlignment="Bottom">
+					<font fontName="Courier New" size="7"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{contrapartida}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="334" y="0" width="30" height="9"/>
+				<textElement textAlignment="Right" verticalAlignment="Bottom">
+					<font fontName="Courier New" size="7"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{identificador}]]></textFieldExpression>
+			</textField>
+			<textField pattern="#,##0.00" isBlankWhenNull="true">
+				<reportElement x="366" y="0" width="60" height="9"/>
+				<textElement textAlignment="Right" verticalAlignment="Bottom">
+					<font fontName="Courier New" size="7"/>
+				</textElement>
+				<textFieldExpression class="java.lang.Double"><![CDATA[$F{debito}]]></textFieldExpression>
+			</textField>
+			<textField pattern="#,##0.00" isBlankWhenNull="true">
+				<reportElement x="428" y="0" width="60" height="9"/>
+				<textElement textAlignment="Right" verticalAlignment="Bottom">
+					<font fontName="Courier New" size="7"/>
+				</textElement>
+				<textFieldExpression class="java.lang.Double"><![CDATA[$F{credito}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="0" y="0" width="43" height="9"/>
+				<textElement verticalAlignment="Bottom">
+					<font fontName="Courier New" size="7"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{data}]]></textFieldExpression>
+			</textField>
+			<textField pattern="#,##0.00D;#,##0.00C">
+				<reportElement x="490" y="0" width="65" height="9"/>
+				<textElement textAlignment="Right" verticalAlignment="Bottom">
+					<font fontName="Courier New" size="7"/>
+				</textElement>
+				<textFieldExpression class="java.lang.Double"><![CDATA[$F{saldo}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<columnFooter>
+		<band splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band height="8" splitType="Stretch">
+			<textField>
+				<reportElement x="0" y="0" width="405" height="8"/>
+				<textElement markup="none">
+					<font fontName="Courier New" size="6"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA[$F{nome_software} + " | emissão: " + new java.text.SimpleDateFormat("dd/MM/yyyy").format(new Date()) + " | usuário: " + $F{usuario}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="455" y="0" width="100" height="8"/>
+				<textElement textAlignment="Right">
+					<font fontName="Courier New" size="6"/>
+				</textElement>
+				<textFieldExpression class="java.lang.String"><![CDATA["pág. " + $V{PAGE_NUMBER}]]></textFieldExpression>
+			</textField>
+		</band>
+	</pageFooter>
+	<summary>
+		<band splitType="Stretch"/>
+	</summary>
+</jasperReport>

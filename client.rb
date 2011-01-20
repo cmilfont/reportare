@@ -2,18 +2,21 @@ require 'rubygems'
 require 'eventmachine'
 require 'json'
 
-class Echo < EventMachine::Connection
+class ClientReport < EventMachine::Connection
   def initialize(*args)
     super
     send_data({
-      :report     => "reports/razao",
-      :datasource => "exemplo/razao.xml",
+      :report     => "reports/razao2",
+      :datasource => "exemplo/razao2.xml",
       :xpath_root => "razao"
     }.to_json)
   end
 
   def receive_data(data)
     p data
+    File.open("razao.pdf", "w") do |f|
+      f.write data
+    end
     #send_data data
     close_connection_after_writing
     exit
@@ -25,6 +28,6 @@ class Echo < EventMachine::Connection
 end
 
 EventMachine.run {
-  EventMachine.connect '127.0.0.1', 8081, Echo
+  EventMachine.connect '127.0.0.1', 8081, ClientReport
 }
 

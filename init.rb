@@ -15,6 +15,6 @@ if RUBY_PLATFORM =~ /java/i
   java_import Java::net::sf::jasperreports::engine::JasperExportManager
   java_import Java::net::sf::jasperreports::engine::JRExporterParameter
 
-  require 'lib/relatorio'
+  require 'lib/report'
 end
 
