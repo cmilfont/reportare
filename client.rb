@@ -5,25 +5,23 @@ require 'json'
 class ClientReport < EventMachine::Connection
   def initialize(*args)
     super
-    send_data({
-      :report     => "reports/razao2",
+    json = {:report => "reports/razao2",
       :datasource => "exemplo/razao2.xml",
-      :xpath_root => "razao"
-    }.to_json)
+      :xpath_root => "/razao/item",
+      :file => "/home/cmilfont/projetos/n1r/tmp/razao.pdf"
+    }.to_json
+    send_data(json)
   end
 
   def receive_data(data)
     p data
-    File.open("razao.pdf", "w") do |f|
-      f.write data
-    end
     #send_data data
-    close_connection_after_writing
-    exit
+    close_connection
   end
 
   def unbind
     p ' connection totally closed'
+    detach
   end
 end
 

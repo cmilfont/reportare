@@ -19,8 +19,9 @@ json = {:report => "reports/razao2",
 }.to_json
 
 sock = TCPSocket.new("localhost", 8081)
-sock.write json
-#puts sock.readline
+b = sock.write json
+
+puts sock.recv(b)
 
 sock.close
 puts "terminou"

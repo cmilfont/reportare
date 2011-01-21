@@ -23,11 +23,14 @@ module ReportServer
 
       relatorio.to_pdf_file(config["file"])
       puts "Arquivo criado"
-      puts "/home/cmilfont/projetos/n1r/tmp/razao.pdf"
-      #send_data "/home/cmilfont/projetos/n1r/tmp/razao.pdf"
+      puts config["file"]
+      send_data config["file"]
+      #close_connection
     rescue JSON::ParserError => e
       puts e
-      send_data "Perdeu playboy"
+      puts "Erro! JSON inválido"
+    rescue Error => err
+      puts e
       puts "Erro!"
     end
   end
