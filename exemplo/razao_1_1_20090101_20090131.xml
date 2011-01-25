@@ -1,0 +1,4306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<razao>
+  <usuario>cmilfont@gmail.com</usuario>
+  <nome_empresa>Petrobrás S.A.</nome_empresa>
+  <cnpj_empresa>63.542.443/0001-24</cnpj_empresa>
+  <data_inicial>01/01/2009</data_inicial>
+  <data_final>31/01/2009</data_final>
+  <nome_software>Fortes C1 Contabilidade</nome_software>
+  <item>
+    <codigo>1.01.01.01.01.0001</codigo>
+    <nome>Caixa</nome>
+    <saldo_anterior>1839,13</saldo_anterior>
+    <data>18/01/2009</data>
+    <historico>Pg.correios cf. comprovante</historico>
+    <contrapartida>3.01.01.07.01.0060</contrapartida>
+    <identificador>785</identificador>
+    <saldo>1779,56</saldo>
+    <credito>59,57</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.01.01.0001</codigo>
+    <nome>Caixa</nome>
+    <saldo_anterior>1839,13</saldo_anterior>
+    <data>18/01/2009</data>
+    <historico>Pg.material de expediente</historico>
+    <contrapartida>3.01.01.07.01.0066</contrapartida>
+    <identificador>786</identificador>
+    <saldo>1621,07</saldo>
+    <credito>158,49</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.01.01.0001</codigo>
+    <nome>Caixa</nome>
+    <saldo_anterior>1839,13</saldo_anterior>
+    <data>19/01/2009</data>
+    <historico>Pg.taxa ref.diversos</historico>
+    <contrapartida>3.01.01.07.01.0067</contrapartida>
+    <identificador>787</identificador>
+    <saldo>0</saldo>
+    <credito>110,4</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>02/01/2009</data>
+    <historico>Pg. aquisição de terreno</historico>
+    <contrapartida>1.07.04.01.01.0001</contrapartida>
+    <identificador>751</identificador>
+    <saldo>1341935,74</saldo>
+    <credito>31500,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>02/01/2009</data>
+    <historico>Pg. aquisição prédio</historico>
+    <contrapartida>1.07.04.01.01.0002</contrapartida>
+    <identificador>752</identificador>
+    <saldo>1313435,74</saldo>
+    <credito>28500,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>03/01/2009</data>
+    <historico>Pg. instalações industriais</historico>
+    <contrapartida>1.07.04.01.01.0003</contrapartida>
+    <identificador>753</identificador>
+    <saldo>1310116,91</saldo>
+    <credito>3318,83</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>03/01/2009</data>
+    <historico>Pg. aquisição de máquinas</historico>
+    <contrapartida>1.07.04.01.01.0006</contrapartida>
+    <identificador>754</identificador>
+    <saldo>1291471,91</saldo>
+    <credito>18645,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>03/01/2009</data>
+    <historico>Pg.duplicata no.</historico>
+    <contrapartida>2.01.01.01.01.0001</contrapartida>
+    <identificador>755</identificador>
+    <saldo>909580,31</saldo>
+    <credito>381891,6</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>04/01/2009</data>
+    <historico>Pg. aquisição de móveis</historico>
+    <contrapartida>1.07.04.01.01.0005</contrapartida>
+    <identificador>756</identificador>
+    <saldo>908080,31</saldo>
+    <credito>1500,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>04/01/2009</data>
+    <historico>Pg. aquisição de veículo</historico>
+    <contrapartida>1.07.04.01.01.0004</contrapartida>
+    <identificador>757</identificador>
+    <saldo>885880,31</saldo>
+    <credito>22200,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>09/01/2009</data>
+    <historico>Pg.alugueis ref.mês</historico>
+    <contrapartida>3.01.01.03.02.0052</contrapartida>
+    <identificador>764</identificador>
+    <saldo>884380,31</saldo>
+    <credito>1500,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>09/01/2009</data>
+    <historico>Pg.alugueis ref.mês</historico>
+    <contrapartida>3.01.01.03.02.0052</contrapartida>
+    <identificador>764</identificador>
+    <saldo>882880,31</saldo>
+    <credito>1500,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>09/01/2009</data>
+    <historico>Pg.condomínio ref.mês</historico>
+    <contrapartida>3.01.01.03.02.0056</contrapartida>
+    <identificador>765</identificador>
+    <saldo>882580,31</saldo>
+    <credito>300,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>09/01/2009</data>
+    <historico>Pg.condomínio ref.mês</historico>
+    <contrapartida>3.01.01.03.02.0056</contrapartida>
+    <identificador>765</identificador>
+    <saldo>882280,31</saldo>
+    <credito>300,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>10/01/2009</data>
+    <historico>Pg.manutenção ref.máquinas</historico>
+    <contrapartida>3.01.01.03.02.0015</contrapartida>
+    <identificador>766</identificador>
+    <saldo>881350,31</saldo>
+    <credito>930,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>10/01/2009</data>
+    <historico>Pg.manutenção ref.máquinas</historico>
+    <contrapartida>3.01.01.03.02.0015</contrapartida>
+    <identificador>766</identificador>
+    <saldo>880420,31</saldo>
+    <credito>930,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>10/01/2009</data>
+    <historico>Pg.ICMS ref.</historico>
+    <contrapartida>2.01.01.03.03.0001</contrapartida>
+    <identificador>767</identificador>
+    <saldo>778057,64</saldo>
+    <credito>102362,67</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>10/01/2009</data>
+    <historico>Pg.IPI ref.</historico>
+    <contrapartida>2.01.01.03.03.0002</contrapartida>
+    <identificador>768</identificador>
+    <saldo>732972,56</saldo>
+    <credito>45085,08</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>10/01/2009</data>
+    <historico>Pg.PIS ref.</historico>
+    <contrapartida>2.01.01.03.03.0004</contrapartida>
+    <identificador>769</identificador>
+    <saldo>726737,05</saldo>
+    <credito>6235,51</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>10/01/2009</data>
+    <historico>Pg.COFINS ref.</historico>
+    <contrapartida>2.01.01.03.03.0005</contrapartida>
+    <identificador>770</identificador>
+    <saldo>697957,77</saldo>
+    <credito>28779,28</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>10/01/2009</data>
+    <historico>Pg.INSS ref.</historico>
+    <contrapartida>2.01.01.03.01.0001</contrapartida>
+    <identificador>771</identificador>
+    <saldo>673196,46</saldo>
+    <credito>24761,31</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>10/01/2009</data>
+    <historico>Pg.FGTS ref.</historico>
+    <contrapartida>2.01.01.03.01.0002</contrapartida>
+    <identificador>772</identificador>
+    <saldo>663291,92</saldo>
+    <credito>9904,54</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>10/01/2009</data>
+    <historico>Pg. salário</historico>
+    <contrapartida>2.01.01.03.01.0010</contrapartida>
+    <identificador>773</identificador>
+    <saldo>539485,23</saldo>
+    <credito>123806,69</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>12/01/2009</data>
+    <historico>Pg.despesas ref.fabricação</historico>
+    <contrapartida>3.01.01.03.02.0023</contrapartida>
+    <identificador>774</identificador>
+    <saldo>538270,23</saldo>
+    <credito>1215,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>12/01/2009</data>
+    <historico>Pg.despesas ref.fabricação</historico>
+    <contrapartida>3.01.01.03.02.0023</contrapartida>
+    <identificador>774</identificador>
+    <saldo>537055,23</saldo>
+    <credito>1215,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>13/01/2009</data>
+    <historico>Pg.alugueis ref.equipamentos</historico>
+    <contrapartida>3.01.01.03.02.0057</contrapartida>
+    <identificador>775</identificador>
+    <saldo>536755,23</saldo>
+    <credito>300,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>13/01/2009</data>
+    <historico>Pg.alugueis ref.equipamentos</historico>
+    <contrapartida>3.01.01.03.02.0057</contrapartida>
+    <identificador>775</identificador>
+    <saldo>536455,23</saldo>
+    <credito>300,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>14/01/2009</data>
+    <historico>Pg.manutenção ref.fábrica</historico>
+    <contrapartida>3.01.01.07.01.0064</contrapartida>
+    <identificador>777</identificador>
+    <saldo>535114,74</saldo>
+    <credito>1340,49</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>14/01/2009</data>
+    <historico>Pg.manutenção ref.fábrica</historico>
+    <contrapartida>3.01.01.07.01.0064</contrapartida>
+    <identificador>777</identificador>
+    <saldo>533774,25</saldo>
+    <credito>1340,49</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>16/01/2009</data>
+    <historico>Pg.desp.viagens ref.evento</historico>
+    <contrapartida>3.01.01.07.02.0002</contrapartida>
+    <identificador>781</identificador>
+    <saldo>532124,25</saldo>
+    <credito>1650,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>17/01/2009</data>
+    <historico>Pg.desp.publicidade e propaganda ref.anúncio</historico>
+    <contrapartida>3.01.01.07.02.0003</contrapartida>
+    <identificador>783</identificador>
+    <saldo>526274,25</saldo>
+    <credito>5850,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>17/01/2009</data>
+    <historico>Pg.despesas ref.vendas</historico>
+    <contrapartida>3.01.01.07.02.0007</contrapartida>
+    <identificador>784</identificador>
+    <saldo>525674,25</saldo>
+    <credito>600,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>20/01/2009</data>
+    <historico>Pg. despesa com software</historico>
+    <contrapartida>3.01.01.07.01.0062</contrapartida>
+    <identificador>788</identificador>
+    <saldo>523124,25</saldo>
+    <credito>2550,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>21/01/2009</data>
+    <historico>Vr.despesa bancária ref.taxas</historico>
+    <contrapartida>3.01.01.09.01.0008</contrapartida>
+    <identificador>789</identificador>
+    <saldo>522974,25</saldo>
+    <credito>150,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>23/01/2009</data>
+    <historico>Pg.multa ref.atraso</historico>
+    <contrapartida>3.01.01.07.01.0029</contrapartida>
+    <identificador>790</identificador>
+    <saldo>522668,76</saldo>
+    <credito>305,49</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>24/01/2009</data>
+    <historico>Pg. multa</historico>
+    <contrapartida>3.01.01.07.01.0076</contrapartida>
+    <identificador>791</identificador>
+    <saldo>522519,76</saldo>
+    <credito>149,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>24/01/2009</data>
+    <historico>Pg. despesas pessoais</historico>
+    <contrapartida>3.01.01.07.01.0077</contrapartida>
+    <identificador>792</identificador>
+    <saldo>520719,76</saldo>
+    <credito>1800,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>25/01/2009</data>
+    <historico>Vr. recebimento de duplicatas</historico>
+    <contrapartida>1.01.03.01.01.0001</contrapartida>
+    <identificador>793</identificador>
+    <saldo>1073505,94</saldo>
+    <debito>552786,18</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>25/01/2009</data>
+    <historico>Vr. recebimento de duplicatas</historico>
+    <contrapartida>3.01.01.05.01.0006</contrapartida>
+    <identificador>793</identificador>
+    <saldo>1626292,12</saldo>
+    <debito>552786,18</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>26/01/2009</data>
+    <historico>Pg. despesas diversas</historico>
+    <contrapartida>3.01.01.07.01.0075</contrapartida>
+    <identificador>794</identificador>
+    <saldo>1618252,12</saldo>
+    <credito>8040,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>26/01/2009</data>
+    <historico>Rec. duplicata</historico>
+    <contrapartida>1.01.03.01.01.0001</contrapartida>
+    <identificador>795</identificador>
+    <saldo>1833141,93</saldo>
+    <debito>214889,81</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>27/01/2009</data>
+    <historico>Pg.consumo de energia ref.mês</historico>
+    <contrapartida>3.01.01.03.02.0053</contrapartida>
+    <identificador>796</identificador>
+    <saldo>1821333,53</saldo>
+    <credito>11808,4</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>27/01/2009</data>
+    <historico>Pg.consumo de energia ref.mês</historico>
+    <contrapartida>3.01.01.03.02.0053</contrapartida>
+    <identificador>796</identificador>
+    <saldo>1809525,13</saldo>
+    <credito>11808,4</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>27/01/2009</data>
+    <historico>Pg.consumo de energia ref.mês</historico>
+    <contrapartida>3.01.01.07.01.0048</contrapartida>
+    <identificador>796</identificador>
+    <saldo>1797716,73</saldo>
+    <credito>11808,4</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>27/01/2009</data>
+    <historico>Pg.CAGECE consumo mes</historico>
+    <contrapartida>3.01.01.07.01.0049</contrapartida>
+    <identificador>797</identificador>
+    <saldo>1796946,91</saldo>
+    <credito>769,82</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>27/01/2009</data>
+    <historico>Pg.CAGECE consumo mes</historico>
+    <contrapartida>3.01.01.07.01.0049</contrapartida>
+    <identificador>797</identificador>
+    <saldo>1796177,09</saldo>
+    <credito>769,82</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>27/01/2009</data>
+    <historico>Vr.aplicação n/data</historico>
+    <contrapartida>1.01.01.02.01.0002</contrapartida>
+    <identificador>798</identificador>
+    <saldo>1346177,09</saldo>
+    <credito>450000,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>30/01/2009</data>
+    <historico>Vr.resgate de aplicação financeira</historico>
+    <contrapartida>1.01.01.02.01.0002</contrapartida>
+    <identificador>799</identificador>
+    <saldo>1781559,89</saldo>
+    <debito>435382,8</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>30/01/2009</data>
+    <historico>Vr.resgate de aplicação financeira</historico>
+    <contrapartida>3.01.01.05.01.0007</contrapartida>
+    <identificador>799</identificador>
+    <saldo>2216942,69</saldo>
+    <debito>435382,8</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.plano de saude refmês</historico>
+    <contrapartida>3.01.01.03.06.0044</contrapartida>
+    <identificador>804</identificador>
+    <saldo>2207471,11</saldo>
+    <credito>9471,58</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.plano de saude refmês</historico>
+    <contrapartida>3.01.01.03.06.0044</contrapartida>
+    <identificador>804</identificador>
+    <saldo>2197999,53</saldo>
+    <credito>9471,58</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.plano de saude refmês</historico>
+    <contrapartida>3.01.01.03.06.0044</contrapartida>
+    <identificador>804</identificador>
+    <saldo>2188527,95</saldo>
+    <credito>9471,58</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.plano de saude refmês</historico>
+    <contrapartida>3.01.01.03.06.0044</contrapartida>
+    <identificador>804</identificador>
+    <saldo>2179056,37</saldo>
+    <credito>9471,58</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.vale transporte ref.mês</historico>
+    <contrapartida>3.01.01.03.06.0045</contrapartida>
+    <identificador>805</identificador>
+    <saldo>2174890,42</saldo>
+    <credito>4165,95</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.vale transporte ref.mês</historico>
+    <contrapartida>3.01.01.03.06.0045</contrapartida>
+    <identificador>805</identificador>
+    <saldo>2170724,47</saldo>
+    <credito>4165,95</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.vale transporte ref.mês</historico>
+    <contrapartida>3.01.01.03.06.0045</contrapartida>
+    <identificador>805</identificador>
+    <saldo>2166558,52</saldo>
+    <credito>4165,95</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.vale transporte ref.mês</historico>
+    <contrapartida>3.01.01.03.06.0045</contrapartida>
+    <identificador>805</identificador>
+    <saldo>2162392,57</saldo>
+    <credito>4165,95</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.vale transporte ref.mês</historico>
+    <contrapartida>3.01.01.07.01.0051</contrapartida>
+    <identificador>805</identificador>
+    <saldo>2158226,62</saldo>
+    <credito>4165,95</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.alimentação nf</historico>
+    <contrapartida>3.01.01.03.06.0014</contrapartida>
+    <identificador>806</identificador>
+    <saldo>2146461,66</saldo>
+    <credito>11764,96</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.alimentação nf</historico>
+    <contrapartida>3.01.01.03.06.0014</contrapartida>
+    <identificador>806</identificador>
+    <saldo>2134696,7</saldo>
+    <credito>11764,96</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.alimentação nf</historico>
+    <contrapartida>3.01.01.03.06.0043</contrapartida>
+    <identificador>806</identificador>
+    <saldo>2122931,74</saldo>
+    <credito>11764,96</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.alimentação nf</historico>
+    <contrapartida>3.01.01.03.06.0043</contrapartida>
+    <identificador>806</identificador>
+    <saldo>2111166,78</saldo>
+    <credito>11764,96</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.alimentação nf</historico>
+    <contrapartida>3.01.01.07.01.0007</contrapartida>
+    <identificador>806</identificador>
+    <saldo>2099401,82</saldo>
+    <credito>11764,96</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.pró-labore ref.</historico>
+    <contrapartida>3.01.01.07.01.0055</contrapartida>
+    <identificador>807</identificador>
+    <saldo>2073151,82</saldo>
+    <credito>26250,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.pró-labore ref.</historico>
+    <contrapartida>3.01.01.07.01.0055</contrapartida>
+    <identificador>807</identificador>
+    <saldo>2046901,82</saldo>
+    <credito>26250,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.pró-labore ref.</historico>
+    <contrapartida>3.01.01.07.01.0055</contrapartida>
+    <identificador>807</identificador>
+    <saldo>2020651,82</saldo>
+    <credito>26250,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.consumo telefone ref.mês</historico>
+    <contrapartida>3.01.01.07.01.0055</contrapartida>
+    <identificador>808</identificador>
+    <saldo>2019901,82</saldo>
+    <credito>750,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.assessoria contabil ref.mês</historico>
+    <contrapartida>3.01.01.07.01.0068</contrapartida>
+    <identificador>809</identificador>
+    <saldo>2018401,82</saldo>
+    <credito>1500,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.IPTU ref.ano</historico>
+    <contrapartida>3.01.01.07.03.0008</contrapartida>
+    <identificador>810</identificador>
+    <saldo>2017947,99</saldo>
+    <credito>453,83</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0001</codigo>
+    <nome>Banco do Brasil S/A</nome>
+    <saldo_anterior>1373435,74</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.IPVA ref.ano</historico>
+    <contrapartida>3.01.01.07.03.0009</contrapartida>
+    <identificador>811</identificador>
+    <saldo>2017656,12</saldo>
+    <credito>291,87</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0002</codigo>
+    <nome>FAF</nome>
+    <saldo_anterior>148920,0</saldo_anterior>
+    <data>27/01/2009</data>
+    <historico>Vr.aplicação n/data</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>798</identificador>
+    <saldo>598920,0</saldo>
+    <debito>450000,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0002</codigo>
+    <nome>FAF</nome>
+    <saldo_anterior>148920,0</saldo_anterior>
+    <data>30/01/2009</data>
+    <historico>Vr.resgate de aplicação financeira</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>799</identificador>
+    <saldo>163920,0</saldo>
+    <credito>435000,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0002</codigo>
+    <nome>FAF</nome>
+    <saldo_anterior>148920,0</saldo_anterior>
+    <data>30/01/2009</data>
+    <historico>Vr.resgate de aplicação financeira</historico>
+    <contrapartida>3.01.01.09.01.0009</contrapartida>
+    <identificador>799</identificador>
+    <saldo>-271080,0</saldo>
+    <credito>435000,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.01.02.01.0002</codigo>
+    <nome>FAF</nome>
+    <saldo_anterior>148920,0</saldo_anterior>
+    <data>30/01/2009</data>
+    <historico>Vr.resgate de aplicação financeira</historico>
+    <contrapartida>3.01.01.07.03.0011</contrapartida>
+    <identificador>799</identificador>
+    <saldo>-706080,0</saldo>
+    <credito>435000,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.03.01.01.0001</codigo>
+    <nome>Clientes Diversos</nome>
+    <saldo_anterior>79981,68</saldo_anterior>
+    <data>15/01/2009</data>
+    <historico>Vr.faturamento</historico>
+    <contrapartida>3.01.01.01.01.0004</contrapartida>
+    <identificador>778</identificador>
+    <saldo>659795,55</saldo>
+    <debito>579813,87</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>1.01.03.01.01.0001</codigo>
+    <nome>Clientes Diversos</nome>
+    <saldo_anterior>79981,68</saldo_anterior>
+    <data>15/01/2009</data>
+    <historico>Vr.faturamento</historico>
+    <contrapartida>3.01.01.01.01.0004</contrapartida>
+    <identificador>778</identificador>
+    <saldo>1239609,42</saldo>
+    <debito>579813,87</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>1.01.03.01.01.0001</codigo>
+    <nome>Clientes Diversos</nome>
+    <saldo_anterior>79981,68</saldo_anterior>
+    <data>15/01/2009</data>
+    <historico>Vr. devolução de vendas</historico>
+    <contrapartida>3.01.01.01.03.0001</contrapartida>
+    <identificador>779</identificador>
+    <saldo>1233811,74</saldo>
+    <credito>5797,68</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.03.01.01.0001</codigo>
+    <nome>Clientes Diversos</nome>
+    <saldo_anterior>79981,68</saldo_anterior>
+    <data>16/01/2009</data>
+    <historico>Vr.faturamento</historico>
+    <contrapartida>3.01.01.01.01.0006</contrapartida>
+    <identificador>782</identificador>
+    <saldo>1448701,55</saldo>
+    <debito>214889,81</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>1.01.03.01.01.0001</codigo>
+    <nome>Clientes Diversos</nome>
+    <saldo_anterior>79981,68</saldo_anterior>
+    <data>25/01/2009</data>
+    <historico>Vr. recebimento de duplicatas</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>793</identificador>
+    <saldo>882741,53</saldo>
+    <credito>565960,02</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.03.01.01.0001</codigo>
+    <nome>Clientes Diversos</nome>
+    <saldo_anterior>79981,68</saldo_anterior>
+    <data>25/01/2009</data>
+    <historico>Vr. recebimento de duplicatas</historico>
+    <contrapartida>3.01.01.09.01.0006</contrapartida>
+    <identificador>793</identificador>
+    <saldo>316781,51</saldo>
+    <credito>565960,02</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.03.01.01.0001</codigo>
+    <nome>Clientes Diversos</nome>
+    <saldo_anterior>79981,68</saldo_anterior>
+    <data>25/01/2009</data>
+    <historico>Vr. recebimento de duplicatas</historico>
+    <contrapartida>3.01.01.09.01.0007</contrapartida>
+    <identificador>793</identificador>
+    <saldo>-249178,51</saldo>
+    <credito>565960,02</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.03.01.01.0001</codigo>
+    <nome>Clientes Diversos</nome>
+    <saldo_anterior>79981,68</saldo_anterior>
+    <data>26/01/2009</data>
+    <historico>Rec. duplicata</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>795</identificador>
+    <saldo>-464068,32</saldo>
+    <credito>214889,81</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.15.01.01.0001</codigo>
+    <nome>Mercadorias Para Revenda</nome>
+    <saldo_anterior>81936,26</saldo_anterior>
+    <data>13/01/2009</data>
+    <historico>Vr.aquisição de mercadorias</historico>
+    <contrapartida>2.01.01.01.01.0001</contrapartida>
+    <identificador>776</identificador>
+    <saldo>157034,66</saldo>
+    <debito>75098,4</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>1.01.15.01.01.0001</codigo>
+    <nome>Mercadorias Para Revenda</nome>
+    <saldo_anterior>81936,26</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. custo das mercadorias vendidas.</historico>
+    <contrapartida>3.01.01.03.03.0001</contrapartida>
+    <identificador>813</identificador>
+    <saldo>90189,31</saldo>
+    <credito>66845,35</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.15.01.02.0001</codigo>
+    <nome>Matérias Primas</nome>
+    <saldo_anterior>105946,89</saldo_anterior>
+    <data>05/01/2009</data>
+    <historico>Vr.aquisição de materiais</historico>
+    <contrapartida>2.01.01.01.01.0001</contrapartida>
+    <identificador>758</identificador>
+    <saldo>228890,64</saldo>
+    <debito>122943,75</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>1.01.15.01.02.0001</codigo>
+    <nome>Matérias Primas</nome>
+    <saldo_anterior>105946,89</saldo_anterior>
+    <data>07/01/2009</data>
+    <historico>Vr.consumo de materiais</historico>
+    <contrapartida>3.01.01.03.06.0001</contrapartida>
+    <identificador>761</identificador>
+    <saldo>116618,42</saldo>
+    <credito>112272,22</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.15.01.02.0001</codigo>
+    <nome>Matérias Primas</nome>
+    <saldo_anterior>105946,89</saldo_anterior>
+    <data>07/01/2009</data>
+    <historico>Vr.consumo de materiais</historico>
+    <contrapartida>3.01.01.03.06.0001</contrapartida>
+    <identificador>761</identificador>
+    <saldo>4346,2</saldo>
+    <credito>112272,22</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.15.01.02.0002</codigo>
+    <nome>Materiais Secundários</nome>
+    <saldo_anterior>33581,58</saldo_anterior>
+    <data>06/01/2009</data>
+    <historico>Vr.aquisição de materiais</historico>
+    <contrapartida>2.01.01.01.01.0001</contrapartida>
+    <identificador>759</identificador>
+    <saldo>72550,58</saldo>
+    <debito>38969,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>1.01.15.01.02.0002</codigo>
+    <nome>Materiais Secundários</nome>
+    <saldo_anterior>33581,58</saldo_anterior>
+    <data>07/01/2009</data>
+    <historico>Vr.consumo de materiais</historico>
+    <contrapartida>3.01.01.03.06.0001</contrapartida>
+    <identificador>762</identificador>
+    <saldo>36964,1</saldo>
+    <credito>35586,48</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.15.01.02.0002</codigo>
+    <nome>Materiais Secundários</nome>
+    <saldo_anterior>33581,58</saldo_anterior>
+    <data>07/01/2009</data>
+    <historico>Vr.consumo de materiais</historico>
+    <contrapartida>3.01.01.03.06.0001</contrapartida>
+    <identificador>762</identificador>
+    <saldo>1377,62</saldo>
+    <credito>35586,48</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.15.01.02.0003</codigo>
+    <nome>Materiais de Embalagem</nome>
+    <saldo_anterior>5847,11</saldo_anterior>
+    <data>06/01/2009</data>
+    <historico>Vr.aquisição de materiais</historico>
+    <contrapartida>2.01.01.01.01.0001</contrapartida>
+    <identificador>760</identificador>
+    <saldo>12632,3</saldo>
+    <debito>6785,19</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>1.01.15.01.02.0003</codigo>
+    <nome>Materiais de Embalagem</nome>
+    <saldo_anterior>5847,11</saldo_anterior>
+    <data>08/01/2009</data>
+    <historico>Vr.consumo de materiais</historico>
+    <contrapartida>3.01.01.03.06.0001</contrapartida>
+    <identificador>763</identificador>
+    <saldo>6436,07</saldo>
+    <credito>6196,23</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.15.01.02.0003</codigo>
+    <nome>Materiais de Embalagem</nome>
+    <saldo_anterior>5847,11</saldo_anterior>
+    <data>08/01/2009</data>
+    <historico>Vr.consumo de materiais</historico>
+    <contrapartida>3.01.01.03.06.0001</contrapartida>
+    <identificador>763</identificador>
+    <saldo>239,84</saldo>
+    <credito>6196,23</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.15.01.04.0001</codigo>
+    <nome>Produtos Acabados</nome>
+    <saldo_anterior>60938,25</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. custo dos produtos vendidos</historico>
+    <contrapartida>3.01.01.03.01.0001</contrapartida>
+    <identificador>812</identificador>
+    <saldo>-252380,19</saldo>
+    <credito>313318,44</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.15.01.04.0001</codigo>
+    <nome>Produtos Acabados</nome>
+    <saldo_anterior>60938,25</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. apuração do estoque</historico>
+    <contrapartida>1.01.15.09.01</contrapartida>
+    <identificador>815</identificador>
+    <saldo>67076,29</saldo>
+    <debito>319456,48</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>1.01.15.01.04.0001</codigo>
+    <nome>Produtos Acabados</nome>
+    <saldo_anterior>60938,25</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. apuração do estoque</historico>
+    <contrapartida>1.01.15.09.01</contrapartida>
+    <identificador>815</identificador>
+    <saldo>386532,77</saldo>
+    <debito>319456,48</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>1.01.15.09.01</codigo>
+    <nome>Apuracao de Estoque</nome>
+    <saldo_anterior>-3171563,71</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. apuração do estoque</historico>
+    <contrapartida>1.01.15.01.04.0001</contrapartida>
+    <identificador>815</identificador>
+    <saldo>-3365158,9</saldo>
+    <credito>193595,19</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.15.09.01</codigo>
+    <nome>Apuracao de Estoque</nome>
+    <saldo_anterior>-3171563,71</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. apuração do estoque</historico>
+    <contrapartida>1.01.15.01.04.0001</contrapartida>
+    <identificador>815</identificador>
+    <saldo>-3491020,19</saldo>
+    <credito>125861,29</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.01.01.0001</codigo>
+    <nome>Terrenos</nome>
+    <saldo_anterior>21000,0</saldo_anterior>
+    <data>02/01/2009</data>
+    <historico>Pg. aquisição de terreno</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>751</identificador>
+    <saldo>52500,0</saldo>
+    <debito>31500,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>1.07.04.01.01.0002</codigo>
+    <nome>Edifícios e Construções</nome>
+    <saldo_anterior>19000,0</saldo_anterior>
+    <data>02/01/2009</data>
+    <historico>Pg. aquisição prédio</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>752</identificador>
+    <saldo>47500,0</saldo>
+    <debito>28500,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>1.07.04.01.01.0003</codigo>
+    <nome>Equipamentos, Máquinas e Instalações Industriais</nome>
+    <saldo_anterior>2212,55</saldo_anterior>
+    <data>03/01/2009</data>
+    <historico>Pg. instalações industriais</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>753</identificador>
+    <saldo>5531,38</saldo>
+    <debito>3318,83</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>1.07.04.01.01.0004</codigo>
+    <nome>Veículos</nome>
+    <saldo_anterior>28120,0</saldo_anterior>
+    <data>04/01/2009</data>
+    <historico>Pg. aquisição de veículo</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>757</identificador>
+    <saldo>50320,0</saldo>
+    <debito>22200,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>1.07.04.01.01.0005</codigo>
+    <nome>Móveis, Utensílios e Instalações Comerciais</nome>
+    <saldo_anterior>1000,0</saldo_anterior>
+    <data>04/01/2009</data>
+    <historico>Pg. aquisição de móveis</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>756</identificador>
+    <saldo>2500,0</saldo>
+    <debito>1500,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>1.07.04.01.01.0006</codigo>
+    <nome>Equipamentos de Processamento de Dados</nome>
+    <saldo_anterior>12430,0</saldo_anterior>
+    <data>03/01/2009</data>
+    <historico>Pg. aquisição de máquinas</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>754</identificador>
+    <saldo>31075,0</saldo>
+    <debito>18645,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0001</codigo>
+    <nome>Prédios</nome>
+    <saldo_anterior>-496,39</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-546,39</saldo>
+    <credito>50,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0001</codigo>
+    <nome>Prédios</nome>
+    <saldo_anterior>-496,39</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-596,39</saldo>
+    <credito>50,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0001</codigo>
+    <nome>Prédios</nome>
+    <saldo_anterior>-496,39</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-646,39</saldo>
+    <credito>50,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0001</codigo>
+    <nome>Prédios</nome>
+    <saldo_anterior>-496,39</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-696,39</saldo>
+    <credito>50,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0001</codigo>
+    <nome>Prédios</nome>
+    <saldo_anterior>-496,39</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-746,39</saldo>
+    <credito>50,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0001</codigo>
+    <nome>Prédios</nome>
+    <saldo_anterior>-496,39</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-796,39</saldo>
+    <credito>50,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0001</codigo>
+    <nome>Prédios</nome>
+    <saldo_anterior>-496,39</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-846,39</saldo>
+    <credito>50,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0001</codigo>
+    <nome>Prédios</nome>
+    <saldo_anterior>-496,39</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-896,39</saldo>
+    <credito>50,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0001</codigo>
+    <nome>Prédios</nome>
+    <saldo_anterior>-496,39</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-946,39</saldo>
+    <credito>50,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0002</codigo>
+    <nome>Instalações Industriais</nome>
+    <saldo_anterior>-248,21</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-273,22</saldo>
+    <credito>25,01</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0002</codigo>
+    <nome>Instalações Industriais</nome>
+    <saldo_anterior>-248,21</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-298,23</saldo>
+    <credito>25,01</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0002</codigo>
+    <nome>Instalações Industriais</nome>
+    <saldo_anterior>-248,21</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-323,24</saldo>
+    <credito>25,01</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0002</codigo>
+    <nome>Instalações Industriais</nome>
+    <saldo_anterior>-248,21</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-348,25</saldo>
+    <credito>25,01</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0002</codigo>
+    <nome>Instalações Industriais</nome>
+    <saldo_anterior>-248,21</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-373,26</saldo>
+    <credito>25,01</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0002</codigo>
+    <nome>Instalações Industriais</nome>
+    <saldo_anterior>-248,21</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-398,27</saldo>
+    <credito>25,01</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0002</codigo>
+    <nome>Instalações Industriais</nome>
+    <saldo_anterior>-248,21</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-423,28</saldo>
+    <credito>25,01</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0002</codigo>
+    <nome>Instalações Industriais</nome>
+    <saldo_anterior>-248,21</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-448,29</saldo>
+    <credito>25,01</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0002</codigo>
+    <nome>Instalações Industriais</nome>
+    <saldo_anterior>-248,21</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-473,3</saldo>
+    <credito>25,01</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0003</codigo>
+    <nome>Máquinas, Aparelhos e Equipamentos</nome>
+    <saldo_anterior>-620,51</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-683,02</saldo>
+    <credito>62,51</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0003</codigo>
+    <nome>Máquinas, Aparelhos e Equipamentos</nome>
+    <saldo_anterior>-620,51</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-745,53</saldo>
+    <credito>62,51</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0003</codigo>
+    <nome>Máquinas, Aparelhos e Equipamentos</nome>
+    <saldo_anterior>-620,51</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-808,04</saldo>
+    <credito>62,51</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0003</codigo>
+    <nome>Máquinas, Aparelhos e Equipamentos</nome>
+    <saldo_anterior>-620,51</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-870,55</saldo>
+    <credito>62,51</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0003</codigo>
+    <nome>Máquinas, Aparelhos e Equipamentos</nome>
+    <saldo_anterior>-620,51</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-933,06</saldo>
+    <credito>62,51</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0003</codigo>
+    <nome>Máquinas, Aparelhos e Equipamentos</nome>
+    <saldo_anterior>-620,51</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-995,57</saldo>
+    <credito>62,51</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0003</codigo>
+    <nome>Máquinas, Aparelhos e Equipamentos</nome>
+    <saldo_anterior>-620,51</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-1058,08</saldo>
+    <credito>62,51</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0003</codigo>
+    <nome>Máquinas, Aparelhos e Equipamentos</nome>
+    <saldo_anterior>-620,51</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-1120,59</saldo>
+    <credito>62,51</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0003</codigo>
+    <nome>Máquinas, Aparelhos e Equipamentos</nome>
+    <saldo_anterior>-620,51</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-1183,1</saldo>
+    <credito>62,51</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0004</codigo>
+    <nome>Móveis e Utensílios</nome>
+    <saldo_anterior>-372,3</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-409,8</saldo>
+    <credito>37,5</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0004</codigo>
+    <nome>Móveis e Utensílios</nome>
+    <saldo_anterior>-372,3</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-447,3</saldo>
+    <credito>37,5</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0004</codigo>
+    <nome>Móveis e Utensílios</nome>
+    <saldo_anterior>-372,3</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-484,8</saldo>
+    <credito>37,5</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0004</codigo>
+    <nome>Móveis e Utensílios</nome>
+    <saldo_anterior>-372,3</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-522,3</saldo>
+    <credito>37,5</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0004</codigo>
+    <nome>Móveis e Utensílios</nome>
+    <saldo_anterior>-372,3</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-559,8</saldo>
+    <credito>37,5</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0004</codigo>
+    <nome>Móveis e Utensílios</nome>
+    <saldo_anterior>-372,3</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-597,3</saldo>
+    <credito>37,5</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0004</codigo>
+    <nome>Móveis e Utensílios</nome>
+    <saldo_anterior>-372,3</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-634,8</saldo>
+    <credito>37,5</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0004</codigo>
+    <nome>Móveis e Utensílios</nome>
+    <saldo_anterior>-372,3</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-672,3</saldo>
+    <credito>37,5</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0004</codigo>
+    <nome>Móveis e Utensílios</nome>
+    <saldo_anterior>-372,3</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-709,8</saldo>
+    <credito>37,5</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0005</codigo>
+    <nome>Instalações Diversas</nome>
+    <saldo_anterior>-124,09</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-136,59</saldo>
+    <credito>12,5</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0005</codigo>
+    <nome>Instalações Diversas</nome>
+    <saldo_anterior>-124,09</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-149,09</saldo>
+    <credito>12,5</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0005</codigo>
+    <nome>Instalações Diversas</nome>
+    <saldo_anterior>-124,09</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-161,59</saldo>
+    <credito>12,5</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0005</codigo>
+    <nome>Instalações Diversas</nome>
+    <saldo_anterior>-124,09</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-174,09</saldo>
+    <credito>12,5</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0005</codigo>
+    <nome>Instalações Diversas</nome>
+    <saldo_anterior>-124,09</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-186,59</saldo>
+    <credito>12,5</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0005</codigo>
+    <nome>Instalações Diversas</nome>
+    <saldo_anterior>-124,09</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-199,09</saldo>
+    <credito>12,5</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0005</codigo>
+    <nome>Instalações Diversas</nome>
+    <saldo_anterior>-124,09</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-211,59</saldo>
+    <credito>12,5</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0005</codigo>
+    <nome>Instalações Diversas</nome>
+    <saldo_anterior>-124,09</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-224,09</saldo>
+    <credito>12,5</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0005</codigo>
+    <nome>Instalações Diversas</nome>
+    <saldo_anterior>-124,09</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-236,59</saldo>
+    <credito>12,5</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0006</codigo>
+    <nome>Veículos</nome>
+    <saldo_anterior>-3723,0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-4097,99</saldo>
+    <credito>374,99</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0006</codigo>
+    <nome>Veículos</nome>
+    <saldo_anterior>-3723,0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-4472,98</saldo>
+    <credito>374,99</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0006</codigo>
+    <nome>Veículos</nome>
+    <saldo_anterior>-3723,0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-4847,97</saldo>
+    <credito>374,99</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0006</codigo>
+    <nome>Veículos</nome>
+    <saldo_anterior>-3723,0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-5222,96</saldo>
+    <credito>374,99</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0006</codigo>
+    <nome>Veículos</nome>
+    <saldo_anterior>-3723,0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-5597,95</saldo>
+    <credito>374,99</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0006</codigo>
+    <nome>Veículos</nome>
+    <saldo_anterior>-3723,0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-5972,94</saldo>
+    <credito>374,99</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0006</codigo>
+    <nome>Veículos</nome>
+    <saldo_anterior>-3723,0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-6347,93</saldo>
+    <credito>374,99</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0006</codigo>
+    <nome>Veículos</nome>
+    <saldo_anterior>-3723,0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-6722,92</saldo>
+    <credito>374,99</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.07.04.21.01.0006</codigo>
+    <nome>Veículos</nome>
+    <saldo_anterior>-3723,0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>3.01.01.07.01.0030</contrapartida>
+    <identificador>800</identificador>
+    <saldo>-7097,91</saldo>
+    <credito>374,99</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.01.01.0001</codigo>
+    <nome>Fornecedores Diversos</nome>
+    <saldo_anterior>-381891,6</saldo_anterior>
+    <data>03/01/2009</data>
+    <historico>Pg.duplicata no.</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>755</identificador>
+    <saldo>0,0</saldo>
+    <debito>381891,6</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>2.01.01.01.01.0001</codigo>
+    <nome>Fornecedores Diversos</nome>
+    <saldo_anterior>-381891,6</saldo_anterior>
+    <data>05/01/2009</data>
+    <historico>Vr.aquisição de materiais</historico>
+    <contrapartida>1.01.15.01.02.0001</contrapartida>
+    <identificador>758</identificador>
+    <saldo>-162937,5</saldo>
+    <credito>162937,5</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.01.01.0001</codigo>
+    <nome>Fornecedores Diversos</nome>
+    <saldo_anterior>-381891,6</saldo_anterior>
+    <data>05/01/2009</data>
+    <historico>Vr.aquisição de materiais</historico>
+    <contrapartida>1.01.05.01.05.0002</contrapartida>
+    <identificador>758</identificador>
+    <saldo>-325875,0</saldo>
+    <credito>162937,5</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.01.01.0001</codigo>
+    <nome>Fornecedores Diversos</nome>
+    <saldo_anterior>-381891,6</saldo_anterior>
+    <data>05/01/2009</data>
+    <historico>Vr.aquisição de materiais</historico>
+    <contrapartida>1.01.05.01.05.0001</contrapartida>
+    <identificador>758</identificador>
+    <saldo>-488812,5</saldo>
+    <credito>162937,5</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.01.01.0001</codigo>
+    <nome>Fornecedores Diversos</nome>
+    <saldo_anterior>-381891,6</saldo_anterior>
+    <data>06/01/2009</data>
+    <historico>Vr.aquisição de materiais</historico>
+    <contrapartida>1.01.15.01.02.0002</contrapartida>
+    <identificador>759</identificador>
+    <saldo>-540458,16</saldo>
+    <credito>51645,66</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.01.01.0001</codigo>
+    <nome>Fornecedores Diversos</nome>
+    <saldo_anterior>-381891,6</saldo_anterior>
+    <data>06/01/2009</data>
+    <historico>Vr.aquisição de materiais</historico>
+    <contrapartida>1.01.05.01.05.0002</contrapartida>
+    <identificador>759</identificador>
+    <saldo>-592103,82</saldo>
+    <credito>51645,66</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.01.01.0001</codigo>
+    <nome>Fornecedores Diversos</nome>
+    <saldo_anterior>-381891,6</saldo_anterior>
+    <data>06/01/2009</data>
+    <historico>Vr.aquisição de materiais</historico>
+    <contrapartida>1.01.05.01.05.0001</contrapartida>
+    <identificador>759</identificador>
+    <saldo>-643749,48</saldo>
+    <credito>51645,66</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.01.01.0001</codigo>
+    <nome>Fornecedores Diversos</nome>
+    <saldo_anterior>-381891,6</saldo_anterior>
+    <data>06/01/2009</data>
+    <historico>Vr.aquisição de materiais</historico>
+    <contrapartida>1.01.15.01.02.0003</contrapartida>
+    <identificador>760</identificador>
+    <saldo>-652741,91</saldo>
+    <credito>8992,43</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.01.01.0001</codigo>
+    <nome>Fornecedores Diversos</nome>
+    <saldo_anterior>-381891,6</saldo_anterior>
+    <data>06/01/2009</data>
+    <historico>Vr.aquisição de materiais</historico>
+    <contrapartida>1.01.05.01.05.0002</contrapartida>
+    <identificador>760</identificador>
+    <saldo>-661734,34</saldo>
+    <credito>8992,43</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.01.01.0001</codigo>
+    <nome>Fornecedores Diversos</nome>
+    <saldo_anterior>-381891,6</saldo_anterior>
+    <data>06/01/2009</data>
+    <historico>Vr.aquisição de materiais</historico>
+    <contrapartida>1.01.05.01.05.0001</contrapartida>
+    <identificador>760</identificador>
+    <saldo>-670726,77</saldo>
+    <credito>8992,43</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.01.01.0001</codigo>
+    <nome>Fornecedores Diversos</nome>
+    <saldo_anterior>-381891,6</saldo_anterior>
+    <data>13/01/2009</data>
+    <historico>Vr.aquisição de mercadorias</historico>
+    <contrapartida>1.01.15.01.01.0001</contrapartida>
+    <identificador>776</identificador>
+    <saldo>-761206,77</saldo>
+    <credito>90480,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.01.01.0001</codigo>
+    <nome>Fornecedores Diversos</nome>
+    <saldo_anterior>-381891,6</saldo_anterior>
+    <data>13/01/2009</data>
+    <historico>Vr.aquisição de mercadorias</historico>
+    <contrapartida>1.01.05.01.05.0001</contrapartida>
+    <identificador>776</identificador>
+    <saldo>-851686,77</saldo>
+    <credito>90480,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.01.0001</codigo>
+    <nome>INSS a Recolher</nome>
+    <saldo_anterior>-24761,31</saldo_anterior>
+    <data>10/01/2009</data>
+    <historico>Pg.INSS ref.</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>771</identificador>
+    <saldo>0,0</saldo>
+    <debito>24761,31</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.01.0001</codigo>
+    <nome>INSS a Recolher</nome>
+    <saldo_anterior>-24761,31</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.prov.INSS ref.mês</historico>
+    <contrapartida>3.01.01.03.06.0011</contrapartida>
+    <identificador>802</identificador>
+    <saldo>-20362,93</saldo>
+    <credito>20362,93</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.01.0001</codigo>
+    <nome>INSS a Recolher</nome>
+    <saldo_anterior>-24761,31</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.prov.INSS ref.mês</historico>
+    <contrapartida>3.01.01.03.06.0011</contrapartida>
+    <identificador>802</identificador>
+    <saldo>-40725,86</saldo>
+    <credito>20362,93</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.01.0001</codigo>
+    <nome>INSS a Recolher</nome>
+    <saldo_anterior>-24761,31</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.prov.INSS ref.mês</historico>
+    <contrapartida>3.01.01.03.06.0011</contrapartida>
+    <identificador>802</identificador>
+    <saldo>-61088,79</saldo>
+    <credito>20362,93</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.01.0001</codigo>
+    <nome>INSS a Recolher</nome>
+    <saldo_anterior>-24761,31</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.prov.INSS ref.mês</historico>
+    <contrapartida>3.01.01.03.06.0011</contrapartida>
+    <identificador>802</identificador>
+    <saldo>-81451,72</saldo>
+    <credito>20362,93</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.01.0001</codigo>
+    <nome>INSS a Recolher</nome>
+    <saldo_anterior>-24761,31</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.prov.INSS ref.mês</historico>
+    <contrapartida>3.01.01.07.01.0012</contrapartida>
+    <identificador>802</identificador>
+    <saldo>-101814,65</saldo>
+    <credito>20362,93</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.01.0002</codigo>
+    <nome>FGTS a Recolher</nome>
+    <saldo_anterior>-9904,54</saldo_anterior>
+    <data>10/01/2009</data>
+    <historico>Pg.FGTS ref.</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>772</identificador>
+    <saldo>0,0</saldo>
+    <debito>9904,54</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.01.0002</codigo>
+    <nome>FGTS a Recolher</nome>
+    <saldo_anterior>-9904,54</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.prov.FGTS ref.mês</historico>
+    <contrapartida>3.01.01.03.06.0012</contrapartida>
+    <identificador>803</identificador>
+    <saldo>-8145,19</saldo>
+    <credito>8145,19</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.01.0002</codigo>
+    <nome>FGTS a Recolher</nome>
+    <saldo_anterior>-9904,54</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.prov.FGTS ref.mês</historico>
+    <contrapartida>3.01.01.03.06.0012</contrapartida>
+    <identificador>803</identificador>
+    <saldo>-16290,38</saldo>
+    <credito>8145,19</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.01.0002</codigo>
+    <nome>FGTS a Recolher</nome>
+    <saldo_anterior>-9904,54</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.prov.FGTS ref.mês</historico>
+    <contrapartida>3.01.01.03.06.0012</contrapartida>
+    <identificador>803</identificador>
+    <saldo>-24435,57</saldo>
+    <credito>8145,19</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.01.0002</codigo>
+    <nome>FGTS a Recolher</nome>
+    <saldo_anterior>-9904,54</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.prov.FGTS ref.mês</historico>
+    <contrapartida>3.01.01.03.06.0012</contrapartida>
+    <identificador>803</identificador>
+    <saldo>-32580,76</saldo>
+    <credito>8145,19</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.01.0002</codigo>
+    <nome>FGTS a Recolher</nome>
+    <saldo_anterior>-9904,54</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.prov.FGTS ref.mês</historico>
+    <contrapartida>3.01.01.07.01.0013</contrapartida>
+    <identificador>803</identificador>
+    <saldo>-40725,95</saldo>
+    <credito>8145,19</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.01.0010</codigo>
+    <nome>Salários a Pagar</nome>
+    <saldo_anterior>-123806,69</saldo_anterior>
+    <data>10/01/2009</data>
+    <historico>Pg. salário</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>773</identificador>
+    <saldo>0,0</saldo>
+    <debito>123806,69</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.01.0010</codigo>
+    <nome>Salários a Pagar</nome>
+    <saldo_anterior>-123806,69</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.salário ref.mês</historico>
+    <contrapartida>3.01.01.03.06.0040</contrapartida>
+    <identificador>801</identificador>
+    <saldo>-101814,72</saldo>
+    <credito>101814,72</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.01.0010</codigo>
+    <nome>Salários a Pagar</nome>
+    <saldo_anterior>-123806,69</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.salário ref.mês</historico>
+    <contrapartida>3.01.01.03.06.0040</contrapartida>
+    <identificador>801</identificador>
+    <saldo>-203629,44</saldo>
+    <credito>101814,72</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.01.0010</codigo>
+    <nome>Salários a Pagar</nome>
+    <saldo_anterior>-123806,69</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.salário ref.mês</historico>
+    <contrapartida>3.01.01.03.02.0040</contrapartida>
+    <identificador>801</identificador>
+    <saldo>-305444,16</saldo>
+    <credito>101814,72</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.01.0010</codigo>
+    <nome>Salários a Pagar</nome>
+    <saldo_anterior>-123806,69</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.salário ref.mês</historico>
+    <contrapartida>3.01.01.03.02.0040</contrapartida>
+    <identificador>801</identificador>
+    <saldo>-407258,88</saldo>
+    <credito>101814,72</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.01.0010</codigo>
+    <nome>Salários a Pagar</nome>
+    <saldo_anterior>-123806,69</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.salário ref.mês</historico>
+    <contrapartida>3.01.01.07.01.0003</contrapartida>
+    <identificador>801</identificador>
+    <saldo>-509073,6</saldo>
+    <credito>101814,72</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.03.0001</codigo>
+    <nome>ICMS a Recolher</nome>
+    <saldo_anterior>-102362,67</saldo_anterior>
+    <data>10/01/2009</data>
+    <historico>Pg.ICMS ref.</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>767</identificador>
+    <saldo>0,0</saldo>
+    <debito>102362,67</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.03.0001</codigo>
+    <nome>ICMS a Recolher</nome>
+    <saldo_anterior>-102362,67</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.ICMS s/vendas</historico>
+    <contrapartida>3.01.01.01.03.0002</contrapartida>
+    <identificador>816</identificador>
+    <saldo>-134114,03</saldo>
+    <credito>134114,03</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.03.0001</codigo>
+    <nome>ICMS a Recolher</nome>
+    <saldo_anterior>-102362,67</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.apuração de ICMS ref.mês</historico>
+    <contrapartida>1.01.05.01.05.0001</contrapartida>
+    <identificador>817</identificador>
+    <saldo>-84179,84</saldo>
+    <debito>49934,19</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.03.0002</codigo>
+    <nome>IPI a Recolher</nome>
+    <saldo_anterior>-45085,08</saldo_anterior>
+    <data>10/01/2009</data>
+    <historico>Pg.IPI ref.</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>768</identificador>
+    <saldo>0,0</saldo>
+    <debito>45085,08</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.03.0002</codigo>
+    <nome>IPI a Recolher</nome>
+    <saldo_anterior>-45085,08</saldo_anterior>
+    <data>15/01/2009</data>
+    <historico>Vr.IPI s/vendas</historico>
+    <contrapartida>3.01.01.01.01.0018</contrapartida>
+    <identificador>780</identificador>
+    <saldo>-57401,61</saldo>
+    <credito>57401,61</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.03.0002</codigo>
+    <nome>IPI a Recolher</nome>
+    <saldo_anterior>-45085,08</saldo_anterior>
+    <data>15/01/2009</data>
+    <historico>Vr.IPI s/vendas</historico>
+    <contrapartida>3.01.01.01.01.0018</contrapartida>
+    <identificador>780</identificador>
+    <saldo>-114803,22</saldo>
+    <credito>57401,61</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.03.0002</codigo>
+    <nome>IPI a Recolher</nome>
+    <saldo_anterior>-45085,08</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.apuracao IPI ref.mês</historico>
+    <contrapartida>1.01.05.01.05.0002</contrapartida>
+    <identificador>814</identificador>
+    <saldo>-94478,16</saldo>
+    <debito>20325,06</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.03.0004</codigo>
+    <nome>PIS a Recolher</nome>
+    <saldo_anterior>-6235,51</saldo_anterior>
+    <data>10/01/2009</data>
+    <historico>Pg.PIS ref.</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>769</identificador>
+    <saldo>0,0</saldo>
+    <debito>6235,51</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.03.0004</codigo>
+    <nome>PIS a Recolher</nome>
+    <saldo_anterior>-6235,51</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. PIS</historico>
+    <contrapartida>3.01.01.01.03.0004</contrapartida>
+    <identificador>819</identificador>
+    <saldo>-5127,89</saldo>
+    <credito>5127,89</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.03.0005</codigo>
+    <nome>COFINS a Recolher</nome>
+    <saldo_anterior>-28779,28</saldo_anterior>
+    <data>10/01/2009</data>
+    <historico>Pg.COFINS ref.</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>770</identificador>
+    <saldo>0,0</saldo>
+    <debito>28779,28</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>2.01.01.03.03.0005</codigo>
+    <nome>COFINS a Recolher</nome>
+    <saldo_anterior>-28779,28</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. COFINS</historico>
+    <contrapartida>3.01.01.01.03.0003</contrapartida>
+    <identificador>818</identificador>
+    <saldo>-23667,18</saldo>
+    <credito>23667,18</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.05.01.05.0001</codigo>
+    <nome>ICMS a Recuperar</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>05/01/2009</data>
+    <historico>Vr.aquisição de materiais</historico>
+    <contrapartida>2.01.01.01.01.0001</contrapartida>
+    <identificador>758</identificador>
+    <saldo>25181,25</saldo>
+    <debito>25181,25</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>1.01.05.01.05.0001</codigo>
+    <nome>ICMS a Recuperar</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>06/01/2009</data>
+    <historico>Vr.aquisição de materiais</historico>
+    <contrapartida>2.01.01.01.01.0001</contrapartida>
+    <identificador>759</identificador>
+    <saldo>33162,85</saldo>
+    <debito>7981,6</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>1.01.05.01.05.0001</codigo>
+    <nome>ICMS a Recuperar</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>06/01/2009</data>
+    <historico>Vr.aquisição de materiais</historico>
+    <contrapartida>2.01.01.01.01.0001</contrapartida>
+    <identificador>760</identificador>
+    <saldo>34552,59</saldo>
+    <debito>1389,74</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>1.01.05.01.05.0001</codigo>
+    <nome>ICMS a Recuperar</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>13/01/2009</data>
+    <historico>Vr.aquisição de mercadorias</historico>
+    <contrapartida>2.01.01.01.01.0001</contrapartida>
+    <identificador>776</identificador>
+    <saldo>49934,19</saldo>
+    <debito>15381,6</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>1.01.05.01.05.0001</codigo>
+    <nome>ICMS a Recuperar</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.apuração de ICMS ref.mês</historico>
+    <contrapartida>2.01.01.03.03.0001</contrapartida>
+    <identificador>817</identificador>
+    <saldo>0,0</saldo>
+    <credito>49934,19</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>1.01.05.01.05.0002</codigo>
+    <nome>IPI a Recuperar</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>05/01/2009</data>
+    <historico>Vr.aquisição de materiais</historico>
+    <contrapartida>2.01.01.01.01.0001</contrapartida>
+    <identificador>758</identificador>
+    <saldo>14812,5</saldo>
+    <debito>14812,5</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>1.01.05.01.05.0002</codigo>
+    <nome>IPI a Recuperar</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>06/01/2009</data>
+    <historico>Vr.aquisição de materiais</historico>
+    <contrapartida>2.01.01.01.01.0001</contrapartida>
+    <identificador>759</identificador>
+    <saldo>19507,56</saldo>
+    <debito>4695,06</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>1.01.05.01.05.0002</codigo>
+    <nome>IPI a Recuperar</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>06/01/2009</data>
+    <historico>Vr.aquisição de materiais</historico>
+    <contrapartida>2.01.01.01.01.0001</contrapartida>
+    <identificador>760</identificador>
+    <saldo>20325,06</saldo>
+    <debito>817,5</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>1.01.05.01.05.0002</codigo>
+    <nome>IPI a Recuperar</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.apuracao IPI ref.mês</historico>
+    <contrapartida>2.01.01.03.03.0002</contrapartida>
+    <identificador>814</identificador>
+    <saldo>0,0</saldo>
+    <credito>20325,06</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>3.01.01.01.01.0004</codigo>
+    <nome>Receita da Venda no Merc Interno de Prod de Fabric Própria</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>15/01/2009</data>
+    <historico>Vr.faturamento</historico>
+    <contrapartida>1.01.03.01.01.0001</contrapartida>
+    <identificador>778</identificador>
+    <saldo>-345163,2</saldo>
+    <credito>345163,2</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>3.01.01.01.01.0004</codigo>
+    <nome>Receita da Venda no Merc Interno de Prod de Fabric Própria</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>15/01/2009</data>
+    <historico>Vr.faturamento</historico>
+    <contrapartida>1.01.03.01.01.0001</contrapartida>
+    <identificador>778</identificador>
+    <saldo>-579813,87</saldo>
+    <credito>234650,67</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>3.01.01.01.01.0006</codigo>
+    <nome>Receita da Prestação de Serviços - Mercado Interno</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>16/01/2009</data>
+    <historico>Vr.faturamento</historico>
+    <contrapartida>1.01.03.01.01.0001</contrapartida>
+    <identificador>782</identificador>
+    <saldo>-214889,81</saldo>
+    <credito>214889,81</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>3.01.01.01.01.0018</codigo>
+    <nome>(-) IPI</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>15/01/2009</data>
+    <historico>Vr.IPI s/vendas</historico>
+    <contrapartida>2.01.01.03.03.0002</contrapartida>
+    <identificador>780</identificador>
+    <saldo>34171,79</saldo>
+    <debito>34171,79</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.01.01.0018</codigo>
+    <nome>(-) IPI</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>15/01/2009</data>
+    <historico>Vr.IPI s/vendas</historico>
+    <contrapartida>2.01.01.03.03.0002</contrapartida>
+    <identificador>780</identificador>
+    <saldo>57401,61</saldo>
+    <debito>23229,82</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.01.03.0001</codigo>
+    <nome>Vendas Canceladas, Devoluções e Descontos Incondicionais</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>15/01/2009</data>
+    <historico>Vr. devolução de vendas</historico>
+    <contrapartida>1.01.03.01.01.0001</contrapartida>
+    <identificador>779</identificador>
+    <saldo>5797,68</saldo>
+    <debito>5797,68</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.01.03.0002</codigo>
+    <nome>ICMS</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.ICMS s/vendas</historico>
+    <contrapartida>2.01.01.03.03.0001</contrapartida>
+    <identificador>816</identificador>
+    <saldo>134114,03</saldo>
+    <debito>134114,03</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.01.03.0003</codigo>
+    <nome>COFINS</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. COFINS</historico>
+    <contrapartida>2.01.01.03.03.0005</contrapartida>
+    <identificador>818</identificador>
+    <saldo>23667,18</saldo>
+    <debito>23667,18</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.01.03.0004</codigo>
+    <nome>PIS/PASEP</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. PIS</historico>
+    <contrapartida>2.01.01.03.03.0004</contrapartida>
+    <identificador>819</identificador>
+    <saldo>5127,89</saldo>
+    <debito>5127,89</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.01.0001</codigo>
+    <nome>Custo dos Produtos de Fabricação Própria Vendidos</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. custo dos produtos vendidos</historico>
+    <contrapartida>1.01.15.01.04.0001</contrapartida>
+    <identificador>812</identificador>
+    <saldo>313318,44</saldo>
+    <debito>313318,44</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.02.0015</codigo>
+    <nome>Manutenção e Reparo de Bens Aplicados na Produção</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>10/01/2009</data>
+    <historico>Pg.manutenção ref.máquinas</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>766</identificador>
+    <saldo>558,0</saldo>
+    <debito>558,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.02.0015</codigo>
+    <nome>Manutenção e Reparo de Bens Aplicados na Produção</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>10/01/2009</data>
+    <historico>Pg.manutenção ref.máquinas</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>766</identificador>
+    <saldo>930,0</saldo>
+    <debito>372,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.02.0023</codigo>
+    <nome>Outros Custos</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>12/01/2009</data>
+    <historico>Pg.despesas ref.fabricação</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>774</identificador>
+    <saldo>729,0</saldo>
+    <debito>729,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.02.0023</codigo>
+    <nome>Outros Custos</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>12/01/2009</data>
+    <historico>Pg.despesas ref.fabricação</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>774</identificador>
+    <saldo>1215,0</saldo>
+    <debito>486,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.02.0040</codigo>
+    <nome>Ordenados, Salários e Gratificações</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.salário ref.mês</historico>
+    <contrapartida>2.01.01.03.01.0010</contrapartida>
+    <identificador>801</identificador>
+    <saldo>16759,94</saldo>
+    <debito>16759,94</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.02.0040</codigo>
+    <nome>Ordenados, Salários e Gratificações</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.salário ref.mês</historico>
+    <contrapartida>2.01.01.03.01.0010</contrapartida>
+    <identificador>801</identificador>
+    <saldo>27933,23</saldo>
+    <debito>11173,29</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.02.0052</codigo>
+    <nome>Aluguéis</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>09/01/2009</data>
+    <historico>Pg.alugueis ref.mês</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>764</identificador>
+    <saldo>900,0</saldo>
+    <debito>900,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.02.0052</codigo>
+    <nome>Aluguéis</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>09/01/2009</data>
+    <historico>Pg.alugueis ref.mês</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>764</identificador>
+    <saldo>1500,0</saldo>
+    <debito>600,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.02.0053</codigo>
+    <nome>Energia Elétrica</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>27/01/2009</data>
+    <historico>Pg.consumo de energia ref.mês</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>796</identificador>
+    <saldo>7325,04</saldo>
+    <debito>7325,04</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.02.0053</codigo>
+    <nome>Energia Elétrica</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>27/01/2009</data>
+    <historico>Pg.consumo de energia ref.mês</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>796</identificador>
+    <saldo>11208,4</saldo>
+    <debito>3883,36</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.02.0056</codigo>
+    <nome>Condomínios</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>09/01/2009</data>
+    <historico>Pg.condomínio ref.mês</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>765</identificador>
+    <saldo>180,0</saldo>
+    <debito>180,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.02.0056</codigo>
+    <nome>Condomínios</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>09/01/2009</data>
+    <historico>Pg.condomínio ref.mês</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>765</identificador>
+    <saldo>300,0</saldo>
+    <debito>120,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.02.0057</codigo>
+    <nome>Aluguél de Equipamentos</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>13/01/2009</data>
+    <historico>Pg.alugueis ref.equipamentos</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>775</identificador>
+    <saldo>180,0</saldo>
+    <debito>180,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.02.0057</codigo>
+    <nome>Aluguél de Equipamentos</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>13/01/2009</data>
+    <historico>Pg.alugueis ref.equipamentos</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>775</identificador>
+    <saldo>300,0</saldo>
+    <debito>120,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.03.0001</codigo>
+    <nome>Custo das Mercadorias Revendidas</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. custo das mercadorias vendidas.</historico>
+    <contrapartida>1.01.15.01.01.0001</contrapartida>
+    <identificador>813</identificador>
+    <saldo>66845,35</saldo>
+    <debito>66845,35</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.06.0001</codigo>
+    <nome>Material Aplicado na Produção de Serviços</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>07/01/2009</data>
+    <historico>Vr.consumo de materiais</historico>
+    <contrapartida>1.01.15.01.02.0001</contrapartida>
+    <identificador>761</identificador>
+    <saldo>67363,33</saldo>
+    <debito>67363,33</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.06.0001</codigo>
+    <nome>Material Aplicado na Produção de Serviços</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>07/01/2009</data>
+    <historico>Vr.consumo de materiais</historico>
+    <contrapartida>1.01.15.01.02.0001</contrapartida>
+    <identificador>761</identificador>
+    <saldo>112272,22</saldo>
+    <debito>44908,89</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.06.0001</codigo>
+    <nome>Material Aplicado na Produção de Serviços</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>07/01/2009</data>
+    <historico>Vr.consumo de materiais</historico>
+    <contrapartida>1.01.15.01.02.0002</contrapartida>
+    <identificador>762</identificador>
+    <saldo>133624,11</saldo>
+    <debito>21351,89</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.06.0001</codigo>
+    <nome>Material Aplicado na Produção de Serviços</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>07/01/2009</data>
+    <historico>Vr.consumo de materiais</historico>
+    <contrapartida>1.01.15.01.02.0002</contrapartida>
+    <identificador>762</identificador>
+    <saldo>147858,7</saldo>
+    <debito>14234,59</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.06.0001</codigo>
+    <nome>Material Aplicado na Produção de Serviços</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>08/01/2009</data>
+    <historico>Vr.consumo de materiais</historico>
+    <contrapartida>1.01.15.01.02.0003</contrapartida>
+    <identificador>763</identificador>
+    <saldo>151576,44</saldo>
+    <debito>3717,74</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.06.0001</codigo>
+    <nome>Material Aplicado na Produção de Serviços</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>08/01/2009</data>
+    <historico>Vr.consumo de materiais</historico>
+    <contrapartida>1.01.15.01.02.0003</contrapartida>
+    <identificador>763</identificador>
+    <saldo>154054,93</saldo>
+    <debito>2478,49</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.06.0011</codigo>
+    <nome>INSS - Previdência Social</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.prov.INSS ref.mês</historico>
+    <contrapartida>2.01.01.03.01.0001</contrapartida>
+    <identificador>802</identificador>
+    <saldo>8145,78</saldo>
+    <debito>8145,78</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.06.0011</codigo>
+    <nome>INSS - Previdência Social</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.prov.INSS ref.mês</historico>
+    <contrapartida>2.01.01.03.01.0001</contrapartida>
+    <identificador>802</identificador>
+    <saldo>13576,29</saldo>
+    <debito>5430,51</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.06.0011</codigo>
+    <nome>INSS - Previdência Social</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.prov.INSS ref.mês</historico>
+    <contrapartida>2.01.01.03.01.0001</contrapartida>
+    <identificador>802</identificador>
+    <saldo>16928,28</saldo>
+    <debito>3351,99</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.06.0011</codigo>
+    <nome>INSS - Previdência Social</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.prov.INSS ref.mês</historico>
+    <contrapartida>2.01.01.03.01.0001</contrapartida>
+    <identificador>802</identificador>
+    <saldo>19162,93</saldo>
+    <debito>2234,65</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.06.0012</codigo>
+    <nome>FGTS</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.prov.FGTS ref.mês</historico>
+    <contrapartida>2.01.01.03.01.0002</contrapartida>
+    <identificador>803</identificador>
+    <saldo>3258,32</saldo>
+    <debito>3258,32</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.06.0012</codigo>
+    <nome>FGTS</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.prov.FGTS ref.mês</historico>
+    <contrapartida>2.01.01.03.01.0002</contrapartida>
+    <identificador>803</identificador>
+    <saldo>5430,53</saldo>
+    <debito>2172,21</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.06.0012</codigo>
+    <nome>FGTS</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.prov.FGTS ref.mês</historico>
+    <contrapartida>2.01.01.03.01.0002</contrapartida>
+    <identificador>803</identificador>
+    <saldo>6771,32</saldo>
+    <debito>1340,79</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.06.0012</codigo>
+    <nome>FGTS</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.prov.FGTS ref.mês</historico>
+    <contrapartida>2.01.01.03.01.0002</contrapartida>
+    <identificador>803</identificador>
+    <saldo>7665,19</saldo>
+    <debito>893,87</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.06.0014</codigo>
+    <nome>Alimentação do Trabalhador</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.alimentação nf</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>806</identificador>
+    <saldo>5087,57</saldo>
+    <debito>5087,57</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.06.0014</codigo>
+    <nome>Alimentação do Trabalhador</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.alimentação nf</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>806</identificador>
+    <saldo>8479,28</saldo>
+    <debito>3391,71</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.06.0040</codigo>
+    <nome>Ordenados, Salários e Gratificações</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.salário ref.mês</historico>
+    <contrapartida>2.01.01.03.01.0010</contrapartida>
+    <identificador>801</identificador>
+    <saldo>40728,89</saldo>
+    <debito>40728,89</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.06.0040</codigo>
+    <nome>Ordenados, Salários e Gratificações</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.salário ref.mês</historico>
+    <contrapartida>2.01.01.03.01.0010</contrapartida>
+    <identificador>801</identificador>
+    <saldo>67881,49</saldo>
+    <debito>27152,6</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.06.0043</codigo>
+    <nome>Outros Gastos com Pessoal Ligado à Produção de Serviços</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.alimentação nf</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>806</identificador>
+    <saldo>1944,41</saldo>
+    <debito>1944,41</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.06.0043</codigo>
+    <nome>Outros Gastos com Pessoal Ligado à Produção de Serviços</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.alimentação nf</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>806</identificador>
+    <saldo>3240,68</saldo>
+    <debito>1296,27</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.06.0044</codigo>
+    <nome>Plano de Saúde</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.plano de saude refmês</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>804</identificador>
+    <saldo>4060,25</saldo>
+    <debito>4060,25</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.06.0044</codigo>
+    <nome>Plano de Saúde</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.plano de saude refmês</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>804</identificador>
+    <saldo>6767,08</saldo>
+    <debito>2706,83</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.06.0044</codigo>
+    <nome>Plano de Saúde</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.plano de saude refmês</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>804</identificador>
+    <saldo>8389,78</saldo>
+    <debito>1622,7</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.06.0044</codigo>
+    <nome>Plano de Saúde</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.plano de saude refmês</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>804</identificador>
+    <saldo>9471,58</saldo>
+    <debito>1081,8</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.06.0045</codigo>
+    <nome>Vale Transporte</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.vale transporte ref.mês</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>805</identificador>
+    <saldo>1671,3</saldo>
+    <debito>1671,3</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.06.0045</codigo>
+    <nome>Vale Transporte</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.vale transporte ref.mês</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>805</identificador>
+    <saldo>2785,5</saldo>
+    <debito>1114,2</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.06.0045</codigo>
+    <nome>Vale Transporte</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.vale transporte ref.mês</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>805</identificador>
+    <saldo>3433,77</saldo>
+    <debito>648,27</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.03.06.0045</codigo>
+    <nome>Vale Transporte</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.vale transporte ref.mês</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>805</identificador>
+    <saldo>3865,95</saldo>
+    <debito>432,18</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.05.01.0006</codigo>
+    <nome>Juros e Desc Recebidos e/ou Auferidos</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>25/01/2009</data>
+    <historico>Vr. recebimento de duplicatas</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>793</identificador>
+    <saldo>-18745,82</saldo>
+    <credito>18745,82</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>3.01.01.05.01.0006</codigo>
+    <nome>Juros e Desc Recebidos e/ou Auferidos</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>25/01/2009</data>
+    <historico>Vr. recebimento de duplicatas</historico>
+    <contrapartida>3.01.01.09.01.0006</contrapartida>
+    <identificador>793</identificador>
+    <saldo>-37491,64</saldo>
+    <credito>18745,82</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>3.01.01.05.01.0006</codigo>
+    <nome>Juros e Desc Recebidos e/ou Auferidos</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>25/01/2009</data>
+    <historico>Vr. recebimento de duplicatas</historico>
+    <contrapartida>3.01.01.09.01.0007</contrapartida>
+    <identificador>793</identificador>
+    <saldo>-56237,46</saldo>
+    <credito>18745,82</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>3.01.01.05.01.0007</codigo>
+    <nome>Rendimentos Aplicações Financeiras</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>30/01/2009</data>
+    <historico>Vr.resgate de aplicação financeira</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>799</identificador>
+    <saldo>-435,0</saldo>
+    <credito>435,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>3.01.01.05.01.0007</codigo>
+    <nome>Rendimentos Aplicações Financeiras</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>30/01/2009</data>
+    <historico>Vr.resgate de aplicação financeira</historico>
+    <contrapartida>3.01.01.09.01.0009</contrapartida>
+    <identificador>799</identificador>
+    <saldo>-870,0</saldo>
+    <credito>435,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>3.01.01.05.01.0007</codigo>
+    <nome>Rendimentos Aplicações Financeiras</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>30/01/2009</data>
+    <historico>Vr.resgate de aplicação financeira</historico>
+    <contrapartida>3.01.01.07.03.0011</contrapartida>
+    <identificador>799</identificador>
+    <saldo>-1305,0</saldo>
+    <credito>435,0</credito>
+    <debito></debito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0003</codigo>
+    <nome>Ordenados, Salários, Gratif e Outras Remuner a Empregados</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.salário ref.mês</historico>
+    <contrapartida>2.01.01.03.01.0010</contrapartida>
+    <identificador>801</identificador>
+    <saldo>6000,0</saldo>
+    <debito>6000,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0007</codigo>
+    <nome>Outros Gastos com Pessoal</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.alimentação nf</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>806</identificador>
+    <saldo>45,0</saldo>
+    <debito>45,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0012</codigo>
+    <nome>INSS - Previdência Social</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.prov.INSS ref.mês</historico>
+    <contrapartida>2.01.01.03.01.0001</contrapartida>
+    <identificador>802</identificador>
+    <saldo>1200,0</saldo>
+    <debito>1200,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0013</codigo>
+    <nome>FGTS</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr.prov.FGTS ref.mês</historico>
+    <contrapartida>2.01.01.03.01.0002</contrapartida>
+    <identificador>803</identificador>
+    <saldo>480,0</saldo>
+    <debito>480,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0029</codigo>
+    <nome>Multas</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>23/01/2009</data>
+    <historico>Pg.multa ref.atraso</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>790</identificador>
+    <saldo>305,49</saldo>
+    <debito>305,49</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0001</contrapartida>
+    <identificador>800</identificador>
+    <saldo>30,0</saldo>
+    <debito>30,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0002</contrapartida>
+    <identificador>800</identificador>
+    <saldo>60,0</saldo>
+    <debito>30,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0003</contrapartida>
+    <identificador>800</identificador>
+    <saldo>90,0</saldo>
+    <debito>30,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0004</contrapartida>
+    <identificador>800</identificador>
+    <saldo>120,0</saldo>
+    <debito>30,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0005</contrapartida>
+    <identificador>800</identificador>
+    <saldo>150,0</saldo>
+    <debito>30,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0006</contrapartida>
+    <identificador>800</identificador>
+    <saldo>180,0</saldo>
+    <debito>30,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0001</contrapartida>
+    <identificador>800</identificador>
+    <saldo>200,0</saldo>
+    <debito>20,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0002</contrapartida>
+    <identificador>800</identificador>
+    <saldo>220,0</saldo>
+    <debito>20,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0003</contrapartida>
+    <identificador>800</identificador>
+    <saldo>240,0</saldo>
+    <debito>20,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0004</contrapartida>
+    <identificador>800</identificador>
+    <saldo>260,0</saldo>
+    <debito>20,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0005</contrapartida>
+    <identificador>800</identificador>
+    <saldo>280,0</saldo>
+    <debito>20,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0006</contrapartida>
+    <identificador>800</identificador>
+    <saldo>300,0</saldo>
+    <debito>20,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0001</contrapartida>
+    <identificador>800</identificador>
+    <saldo>315,0</saldo>
+    <debito>15,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0002</contrapartida>
+    <identificador>800</identificador>
+    <saldo>330,0</saldo>
+    <debito>15,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0003</contrapartida>
+    <identificador>800</identificador>
+    <saldo>345,0</saldo>
+    <debito>15,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0004</contrapartida>
+    <identificador>800</identificador>
+    <saldo>360,0</saldo>
+    <debito>15,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0005</contrapartida>
+    <identificador>800</identificador>
+    <saldo>375,0</saldo>
+    <debito>15,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0006</contrapartida>
+    <identificador>800</identificador>
+    <saldo>390,0</saldo>
+    <debito>15,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0001</contrapartida>
+    <identificador>800</identificador>
+    <saldo>400,0</saldo>
+    <debito>10,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0002</contrapartida>
+    <identificador>800</identificador>
+    <saldo>410,0</saldo>
+    <debito>10,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0003</contrapartida>
+    <identificador>800</identificador>
+    <saldo>420,0</saldo>
+    <debito>10,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0004</contrapartida>
+    <identificador>800</identificador>
+    <saldo>430,0</saldo>
+    <debito>10,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0005</contrapartida>
+    <identificador>800</identificador>
+    <saldo>440,0</saldo>
+    <debito>10,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0006</contrapartida>
+    <identificador>800</identificador>
+    <saldo>450,0</saldo>
+    <debito>10,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0001</contrapartida>
+    <identificador>800</identificador>
+    <saldo>487,5</saldo>
+    <debito>37,5</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0002</contrapartida>
+    <identificador>800</identificador>
+    <saldo>525,0</saldo>
+    <debito>37,5</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0003</contrapartida>
+    <identificador>800</identificador>
+    <saldo>562,5</saldo>
+    <debito>37,5</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0004</contrapartida>
+    <identificador>800</identificador>
+    <saldo>600,0</saldo>
+    <debito>37,5</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0005</contrapartida>
+    <identificador>800</identificador>
+    <saldo>637,5</saldo>
+    <debito>37,5</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0006</contrapartida>
+    <identificador>800</identificador>
+    <saldo>675,0</saldo>
+    <debito>37,5</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0001</contrapartida>
+    <identificador>800</identificador>
+    <saldo>700,01</saldo>
+    <debito>25,01</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0002</contrapartida>
+    <identificador>800</identificador>
+    <saldo>725,02</saldo>
+    <debito>25,01</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0003</contrapartida>
+    <identificador>800</identificador>
+    <saldo>750,03</saldo>
+    <debito>25,01</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0004</contrapartida>
+    <identificador>800</identificador>
+    <saldo>775,04</saldo>
+    <debito>25,01</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0005</contrapartida>
+    <identificador>800</identificador>
+    <saldo>800,05</saldo>
+    <debito>25,01</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0006</contrapartida>
+    <identificador>800</identificador>
+    <saldo>825,06</saldo>
+    <debito>25,01</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0001</contrapartida>
+    <identificador>800</identificador>
+    <saldo>862,56</saldo>
+    <debito>37,5</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0002</contrapartida>
+    <identificador>800</identificador>
+    <saldo>900,06</saldo>
+    <debito>37,5</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0003</contrapartida>
+    <identificador>800</identificador>
+    <saldo>937,56</saldo>
+    <debito>37,5</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0004</contrapartida>
+    <identificador>800</identificador>
+    <saldo>975,06</saldo>
+    <debito>37,5</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0005</contrapartida>
+    <identificador>800</identificador>
+    <saldo>1012,56</saldo>
+    <debito>37,5</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0006</contrapartida>
+    <identificador>800</identificador>
+    <saldo>1050,06</saldo>
+    <debito>37,5</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0001</contrapartida>
+    <identificador>800</identificador>
+    <saldo>1062,56</saldo>
+    <debito>12,5</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0002</contrapartida>
+    <identificador>800</identificador>
+    <saldo>1075,06</saldo>
+    <debito>12,5</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0003</contrapartida>
+    <identificador>800</identificador>
+    <saldo>1087,56</saldo>
+    <debito>12,5</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0004</contrapartida>
+    <identificador>800</identificador>
+    <saldo>1100,06</saldo>
+    <debito>12,5</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0005</contrapartida>
+    <identificador>800</identificador>
+    <saldo>1112,56</saldo>
+    <debito>12,5</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0006</contrapartida>
+    <identificador>800</identificador>
+    <saldo>1125,06</saldo>
+    <debito>12,5</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0001</contrapartida>
+    <identificador>800</identificador>
+    <saldo>1500,06</saldo>
+    <debito>375,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0002</contrapartida>
+    <identificador>800</identificador>
+    <saldo>1875,06</saldo>
+    <debito>375,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0003</contrapartida>
+    <identificador>800</identificador>
+    <saldo>2250,06</saldo>
+    <debito>375,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0004</contrapartida>
+    <identificador>800</identificador>
+    <saldo>2625,06</saldo>
+    <debito>375,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0005</contrapartida>
+    <identificador>800</identificador>
+    <saldo>3000,06</saldo>
+    <debito>375,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0030</codigo>
+    <nome>Encargos de Depreciação e Amortização</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Vr. depreciação n/ mês.</historico>
+    <contrapartida>1.07.04.21.01.0006</contrapartida>
+    <identificador>800</identificador>
+    <saldo>3375,06</saldo>
+    <debito>375,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0048</codigo>
+    <nome>Energia Elétrica</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>27/01/2009</data>
+    <historico>Pg.consumo de energia ref.mês</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>796</identificador>
+    <saldo>600,0</saldo>
+    <debito>600,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0049</codigo>
+    <nome>Água</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>27/01/2009</data>
+    <historico>Pg.CAGECE consumo mes</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>797</identificador>
+    <saldo>461,9</saldo>
+    <debito>461,9</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0049</codigo>
+    <nome>Água</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>27/01/2009</data>
+    <historico>Pg.CAGECE consumo mes</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>797</identificador>
+    <saldo>769,82</saldo>
+    <debito>307,92</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0051</codigo>
+    <nome>Vale Transporte</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.vale transporte ref.mês</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>805</identificador>
+    <saldo>300,0</saldo>
+    <debito>300,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0055</codigo>
+    <nome>Pró-labores</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.pró-labore ref.</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>807</identificador>
+    <saldo>10500,0</saldo>
+    <debito>10500,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0055</codigo>
+    <nome>Pró-labores</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.pró-labore ref.</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>807</identificador>
+    <saldo>21000,0</saldo>
+    <debito>10500,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0055</codigo>
+    <nome>Pró-labores</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.pró-labore ref.</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>807</identificador>
+    <saldo>26250,0</saldo>
+    <debito>5250,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0055</codigo>
+    <nome>Pró-labores</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.consumo telefone ref.mês</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>808</identificador>
+    <saldo>27000,0</saldo>
+    <debito>750,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0060</codigo>
+    <nome>Correios e Malotes</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>18/01/2009</data>
+    <historico>Pg.correios cf. comprovante</historico>
+    <contrapartida>1.01.01.01.01.0001</contrapartida>
+    <identificador>785</identificador>
+    <saldo>59,57</saldo>
+    <debito>59,57</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0062</codigo>
+    <nome>Softwares</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>20/01/2009</data>
+    <historico>Pg. despesa com software</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>788</identificador>
+    <saldo>2550,0</saldo>
+    <debito>2550,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0064</codigo>
+    <nome>Manut Conservação e Limpeza</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>14/01/2009</data>
+    <historico>Pg.manutenção ref.fábrica</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>777</identificador>
+    <saldo>804,3</saldo>
+    <debito>804,3</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0064</codigo>
+    <nome>Manut Conservação e Limpeza</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>14/01/2009</data>
+    <historico>Pg.manutenção ref.fábrica</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>777</identificador>
+    <saldo>1340,49</saldo>
+    <debito>536,19</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0066</codigo>
+    <nome>Materiais de Expediente</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>18/01/2009</data>
+    <historico>Pg.material de expediente</historico>
+    <contrapartida>1.01.01.01.01.0001</contrapartida>
+    <identificador>786</identificador>
+    <saldo>158,49</saldo>
+    <debito>158,49</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0067</codigo>
+    <nome>Taxas e Emolumentos</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>19/01/2009</data>
+    <historico>Pg.taxa ref.diversos</historico>
+    <contrapartida>1.01.01.01.01.0001</contrapartida>
+    <identificador>787</identificador>
+    <saldo>110,4</saldo>
+    <debito>110,4</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0068</codigo>
+    <nome>Assessoria Contábil</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.assessoria contabil ref.mês</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>809</identificador>
+    <saldo>1500,0</saldo>
+    <debito>1500,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0075</codigo>
+    <nome>Outras Despesas Operacionais</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>26/01/2009</data>
+    <historico>Pg. despesas diversas</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>794</identificador>
+    <saldo>8040,0</saldo>
+    <debito>8040,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0076</codigo>
+    <nome>Multas Fiscais ( Indedutíveis )</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>24/01/2009</data>
+    <historico>Pg. multa</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>791</identificador>
+    <saldo>149,0</saldo>
+    <debito>149,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.01.0077</codigo>
+    <nome>Pagamentos Por Liberdade da Empresa</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>24/01/2009</data>
+    <historico>Pg. despesas pessoais</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>792</identificador>
+    <saldo>1800,0</saldo>
+    <debito>1800,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.02.0002</codigo>
+    <nome>Despesa de Viagens</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>16/01/2009</data>
+    <historico>Pg.desp.viagens ref.evento</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>781</identificador>
+    <saldo>1650,0</saldo>
+    <debito>1650,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.02.0003</codigo>
+    <nome>Publicidades e Propagandas</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>17/01/2009</data>
+    <historico>Pg.desp.publicidade e propaganda ref.anúncio</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>783</identificador>
+    <saldo>5850,0</saldo>
+    <debito>5850,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.02.0007</codigo>
+    <nome>Outras Despesas com Vendas</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>17/01/2009</data>
+    <historico>Pg.despesas ref.vendas</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>784</identificador>
+    <saldo>600,0</saldo>
+    <debito>600,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.03.0008</codigo>
+    <nome>IPTU</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.IPTU ref.ano</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>810</identificador>
+    <saldo>453,83</saldo>
+    <debito>453,83</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.03.0009</codigo>
+    <nome>IPVA</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>31/01/2009</data>
+    <historico>Pg.IPVA ref.ano</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>811</identificador>
+    <saldo>291,87</saldo>
+    <debito>291,87</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.03.0011</codigo>
+    <nome>Impostos e Taxas Diversas</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>30/01/2009</data>
+    <historico>Vr.resgate de aplicação financeira</historico>
+    <contrapartida>1.01.01.02.01.0002</contrapartida>
+    <identificador>799</identificador>
+    <saldo>43,5</saldo>
+    <debito>43,5</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.07.03.0011</codigo>
+    <nome>Impostos e Taxas Diversas</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>30/01/2009</data>
+    <historico>Vr.resgate de aplicação financeira</historico>
+    <contrapartida>3.01.01.05.01.0007</contrapartida>
+    <identificador>799</identificador>
+    <saldo>87,0</saldo>
+    <debito>43,5</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.09.01.0006</codigo>
+    <nome>Juros Pagos e/ou Incorridos</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>25/01/2009</data>
+    <historico>Vr. recebimento de duplicatas</historico>
+    <contrapartida>1.01.03.01.01.0001</contrapartida>
+    <identificador>793</identificador>
+    <saldo>29613,42</saldo>
+    <debito>29613,42</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.09.01.0006</codigo>
+    <nome>Juros Pagos e/ou Incorridos</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>25/01/2009</data>
+    <historico>Vr. recebimento de duplicatas</historico>
+    <contrapartida>3.01.01.05.01.0006</contrapartida>
+    <identificador>793</identificador>
+    <saldo>59226,84</saldo>
+    <debito>29613,42</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.09.01.0007</codigo>
+    <nome>Descontos Concedidos</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>25/01/2009</data>
+    <historico>Vr. recebimento de duplicatas</historico>
+    <contrapartida>1.01.03.01.01.0001</contrapartida>
+    <identificador>793</identificador>
+    <saldo>2306,24</saldo>
+    <debito>2306,24</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.09.01.0007</codigo>
+    <nome>Descontos Concedidos</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>25/01/2009</data>
+    <historico>Vr. recebimento de duplicatas</historico>
+    <contrapartida>3.01.01.05.01.0006</contrapartida>
+    <identificador>793</identificador>
+    <saldo>4612,48</saldo>
+    <debito>2306,24</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.09.01.0008</codigo>
+    <nome>Juros, Comiss e Outras Desps Bancárias</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>21/01/2009</data>
+    <historico>Vr.despesa bancária ref.taxas</historico>
+    <contrapartida>1.01.01.02.01.0001</contrapartida>
+    <identificador>789</identificador>
+    <saldo>150,0</saldo>
+    <debito>150,0</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.09.01.0009</codigo>
+    <nome>IOF</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>30/01/2009</data>
+    <historico>Vr.resgate de aplicação financeira</historico>
+    <contrapartida>1.01.01.02.01.0002</contrapartida>
+    <identificador>799</identificador>
+    <saldo>8,7</saldo>
+    <debito>8,7</debito>
+    <credito></credito>
+  </item>
+  <item>
+    <codigo>3.01.01.09.01.0009</codigo>
+    <nome>IOF</nome>
+    <saldo_anterior>0</saldo_anterior>
+    <data>30/01/2009</data>
+    <historico>Vr.resgate de aplicação financeira</historico>
+    <contrapartida>3.01.01.05.01.0007</contrapartida>
+    <identificador>799</identificador>
+    <saldo>17,4</saldo>
+    <debito>8,7</debito>
+    <credito></credito>
+  </item>
+</razao>
+
