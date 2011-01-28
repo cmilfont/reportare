@@ -1,0 +1,31 @@
+#!/bin/bash
+### BEGIN INIT INFO
+# Provides:          APPLICATION
+# Required-Start:    $all
+# Required-Stop:     $network $local_fs $syslog
+# Default-Start:     2 3 4 5
+# Default-Stop:      0 1 6
+# Short-Description: Start the APPLICATION reportare at boot
+# Description:       Enable APPLICATION at boot time.
+### END INIT INFO
+
+set -u
+set -e
+
+# Change these to match your app:
+APP_NAME=reportare
+USER_HOME=/root/projetos
+APP_ROOT="$USER_HOME/$APP_NAME"
+
+cd $APP_ROOT || exit 1
+
+case ${1-help} in
+start)
+  rvm use jruby && ruby server.rb
+	;;
+*)
+ 	echo >&2 "Usage: $0 <start>"
+ 	exit 1
+ 	;;
+esac
+
