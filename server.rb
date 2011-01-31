@@ -23,7 +23,7 @@ module ReportServer
                       :xpath_root => config["xpath_root"]
                      }
 
-      puts relatorio.to_pdf
+      #puts relatorio.to_pdf
       relatorio.to_pdf_file(config["file"])
       puts "Arquivo criado"
       puts config["file"]
