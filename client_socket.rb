@@ -13,9 +13,9 @@ require 'rubygems'
 require 'socket'
 require 'json'
 json = {:report => "reports/razao2",
-  :datasource => "exemplo/razao2.xml",
+  :datasource => "exemplo/razao_1_1_20090101_20090331_1295982551.xml",
   :xpath_root => "/razao/item",
-  :file => "/home/cmilfont/projetos/n1r/tmp/razao.pdf"
+  :file => "exemplo/razao.pdf"
 }.to_json
 
 sock = TCPSocket.new("localhost", 8081)
