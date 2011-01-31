@@ -22,7 +22,7 @@ cd $APP_ROOT || exit 1
 
 case ${1-help} in
 start)
-    jruby -J-Xmn256m -J-Xms256m -J-Xmx256m -J-server server.rb > reportare.log &
+    /usr/local/rvm/bin/jruby-1.5.6 -J-Xmn256m -J-Xms256m -J-Xmx256m -J-server server.rb > reportare.log &
 	;;
 *)
  	echo >&2 "Usage: $0 <start>"
