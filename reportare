@@ -9,8 +9,8 @@
 # Description:       Enable APPLICATION at boot time.
 ### END INIT INFO
 
-set -u
-set -e
+#set -u
+#set -e
 
 rvm use jruby
 # Change these to match your app:
