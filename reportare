@@ -15,18 +15,17 @@ set -e
 rvm use jruby
 # Change these to match your app:
 APP_NAME=reportare
-USER_HOME=/root/projetos
+USER_HOME=/root/produtos
 APP_ROOT="$USER_HOME/$APP_NAME"
 
 cd $APP_ROOT || exit 1
 
 case ${1-help} in
 start)
-    ruby server.rb
+    ruby server.rb &
 	;;
 *)
  	echo >&2 "Usage: $0 <start>"
  	exit 1
  	;;
 esac
-
