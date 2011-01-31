@@ -12,6 +12,7 @@
 set -u
 set -e
 
+rvm use jruby
 # Change these to match your app:
 APP_NAME=reportare
 USER_HOME=/root/projetos
@@ -21,7 +22,7 @@ cd $APP_ROOT || exit 1
 
 case ${1-help} in
 start)
-  rvm use jruby && ruby server.rb
+    ruby server.rb
 	;;
 *)
  	echo >&2 "Usage: $0 <start>"
