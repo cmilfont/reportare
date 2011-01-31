@@ -22,7 +22,7 @@ cd $APP_ROOT || exit 1
 
 case ${1-help} in
 start)
-    ruby server.rb &
+    jruby -J-Xmn512m -J-Xms2048m -J-Xmx2048m -J-server server.rb > reportare.log &
 	;;
 *)
  	echo >&2 "Usage: $0 <start>"
