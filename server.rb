@@ -31,6 +31,7 @@ module ReportServer
     rescue JSON::ParserError => e
       puts e
       puts "Erro! JSON inválido"
+    end
   end
 
 end
