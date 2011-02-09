@@ -13,13 +13,13 @@ class Report
   end
 
   def to_pdf_file(file)
+    font = Java::net.sf.jasperreports.engine.design.JRDesignReportFont.new
+    font.set_name "CourierNewPSMT"
+    @fill.set_default_font(font)
+    @fill.remove_font("Helvetica")
     pdf = JasperExportManager.export_report_to_pdf_file( @fill , file)
   end
 
-  def to_pdf
-    pdf = JasperExportManager.export_report_to_pdf( @fill )
-    return String.from_java_bytes(pdf)
-  end
 
   def to_txt
     string = java.io.ByteArrayOutputStream.new
